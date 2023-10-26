@@ -7,21 +7,21 @@
 
 #### 1.1 Sounium promontory
 - *雅典娜神庙*
-- *Laurium* 雅典银矿
-- *Island of Patroclus* 托勒密将军Patroclus曾建起防御工事抵御Antigonus，Demetrius之子的入侵
+- *Laurium* · [Laurium考古博物馆](https://maps.app.goo.gl/TMA6FqhGjjvem3oZ9) 雅典银矿 
+- [*Island of Patroclus*](https://maps.app.goo.gl/W8aPRLBTqHAdNrbG7) 托勒密将军Patroclus曾建起防御工事抵御Antigonus，Demetrius之子的入侵
 
 #### 1.2 Peiraeus
 - *Peiraeus* 此地从Themistocles任执政官起成为雅典港口，因为它有三个港湾，胜过Phalerum的一个
-- *Phalerum* 雅典旧港，据说Menestheus从此启航去特洛伊，忒修斯前往克里特偿还Androgeos之死的债，以满足Minos
-- *Themistocles之墓* 位于Peiraeus最大的港湾旁，他的遗骸由其亲属自Magnesia赎回，他的孩子们在帕特农设下了一幅Themistocles的肖像画
+- [*Phalerum*](https://maps.app.goo.gl/2JJnpyayEuYnbNaB9) 雅典旧港，据说Menestheus从此启航去特洛伊，忒修斯前往克里特偿还Androgeos之死的债，以满足Minos
+- [*Themistocles之墓*](https://maps.app.goo.gl/DFuZf3bkRypsVgG68) 位于Peiraeus最大的港湾旁，他的遗骸由其亲属自Magnesia赎回，他的孩子们在帕特农设下了一幅Themistocles的肖像画
 
 #### 1.3 Peiraeus
 - *雅典娜和宙斯圣所* 有两位神的铜像：宙斯举着权杖和胜利女神，雅典娜拿着一支长矛
-- *长廊* 是沿海居民的交易市集处；一侧有Arcesilaus所绘的Leosthenes及其儿子的肖像画；Leosthenes是雅典和希腊联军在Beotia抗击马其顿人时的将军；长廊在远离海洋的一侧还有一幅Leochares所绘的宙斯和某个Demos的画像
+- *长廊* 是沿海居民的交易市集处；一侧有Arcesilaus所绘的Leosthenes及其儿子的肖像画；Leosthenes是雅典和希腊联军在贝奥提亚抗击马其顿人时的将军；长廊在远离海洋的一侧还有一幅Leochares所绘的宙斯和某个Demos的画像
 - *阿弗洛狄特圣所* 临海，由Conon这位Cnidus将军在击败斯巴达舰队后（-394）所建（如今的海关总部大楼）。Cnidus尊崇阿弗洛狄特女神。他们为她建了好多圣所：最旧的是Doritis（礼物），其次是Acraea（海岬），最新的是人们俗称的Cnidus，其真正的名字为Euploia（顺利航行）
 
 #### 1.4 Peiraeus
-- *Mounychia* 雅典人的第三个港口（Port de Munichie，今名Mikrolimano，从东侧的防波堤可以看到帕特农神庙）
+- [*Mounychia*](https://maps.app.goo.gl/4b76tu7Hvi9bEtCJA) 雅典人的第三个港口（Port de Munichie，今名Mikrolimano，从东侧的防波堤可以看到帕特农神庙）
 - *Artemis of Mounychia神庙*，旁边有*Demeter圣所*
 - *Athena Sciras神庙*（半神Skiros可能在Salamis和Megara受到供奉。忒修斯杀了他，在雅典后来的神话版本中变成了强盗Skiron。雅典通往厄留西斯的路上有一个叫Skiron的小村庄。Athena Sciras掌管丰茂与多产）
 - *宙斯神庙*
@@ -29,7 +29,7 @@
 - *Androgeos，Minos之子祭坛*；被称为英雄祭坛，但是留意历史的人知道那个是Androgeos的祭坛（但是与Pausanias同时代的Clement of Alexandria也不知道那是谁的祭坛）
 
 #### 1.5 Cape Kolias
-- *Cape Kolias* 40公里以外（20 stades，应为现今Hagios Kosmas），波斯人的舰队摧毁于此
+- [*Cape Kolias*](https://maps.app.goo.gl/odCsiuqqT7d2mtEx5) 40公里以外（20 stades，应为现今Hagios Kosmas），波斯人的舰队摧毁于此
 - *Aphrodite of Kolias像，伴有女神Genetyllides（冥界生育女神？underworld birth goddesses）*；应与伊奥尼亚的福基亚人口中的Gennaides是同样的神灵
 - *赫拉神庙* 在Phalerum往雅典的路上，神庙既没有门也没有屋顶。据说是Mardonios（大流士一世手下的波斯将军）烧了它。可是神庙里留存至今的画作又是Alkamenes所绘（前5世纪下半叶），所以不应该是波斯人毁坏的
 
@@ -46,8 +46,8 @@
 - 还是*墓地* 大门（大概指Itonian gate，在sixt租车行旁边）不远处有一块墓碑，一位士兵站在他的马旁边，应是Praxiteles的手笔
 
 #### 2.4 雅典
-- *游行准备处（Pompeion）* 进城门旁（应是Dipylon gate）的一栋建筑，放一些游行的物件。有些是年度游行，有些间隔更长
-- *德墨忒尔神庙* 德墨忒尔和她女儿的相，还有举着火把的Iacchos；有铭文说是Praxiteles所作
+- [*游行准备处（Pompeion）*](https://maps.app.goo.gl/rcJewph3xNtiUvHb7) 进城门旁（应是[Dipylon gate](https://maps.app.goo.gl/48jjnhTKyincsfbk8)）的一栋建筑，放一些游行的物件。有些是年度游行，有些间隔更长
+- *德墨忒尔神庙* 德墨忒尔和她女儿的像，还有举着火把的Iacchos；有铭文说是Praxiteles所作
 - *波塞冬神庙* 波塞冬骑马像，正挥舞长矛攻击巨人Polybotes，和Kos人的神话传说有关（据说波塞冬撕下了Kos岛的一小块扔向了巨人）。
 
 #### 2.5 柱廊
@@ -59,17 +59,61 @@
 #### 2.6 Amphiktyon的成王之路
 Aktaios是目前公认的阿提卡第一位国王；他死了以后，女婿Kekrops继承了王位；Kekrops有三个女儿，Herse，Aglauros和Pandrosos，还有一个儿子Erysichthon；因为这个儿子死在了父亲前面，所以当时雅典最有权势的男人Kranaos继承了Kekrops的王位；Kranaos也全是女儿，其中一个叫Atthis，是阿提卡一名的来源——此前阿提卡名叫Aktaia；Amphiktyon娶了Atthis，举了反旗；他很快遇到了同样的情况：Erichthonios也反了他。传说Erichthonios的双亲是赫淮斯托斯和盖亚。
 
-#### 3.1 Kerameikos
+#### 3.1 [Kerameikos](https://maps.app.goo.gl/MrV887eCrB76uzJB8)
 - 以Keramos命名，这位狄奥尼索斯和阿里阿德涅的儿子
 - *国王柱廊* 进门右手边。据说是以前国王的办公处所；站在地砖上能看到很多陶土浮雕：忒修斯扔Skiron入海，Eos携Kephalos飞翔。后一个故事讲的是，Eos因其美貌爱上了Kephalos，带他飞走了，两人生下了Phaithon；Phaithon被阿弗洛狄特拐走了，成为了她的祭司（神曲986-91）
 
-#### 3.2
+#### 3.2 Kerameikos
 - *雕像* Timotheos之子Konon，塞浦路斯国王Evagoras；后者与国王Artaxerxes交涉，交给Konon掌握腓尼基舰队，他的介入是因为他是萨拉米斯后裔，还有雅典血脉——其祖先可追溯到Teuker和Kinyras之女
 - *自由者宙斯（Libertaor）雕像*
 - *哈德良雕像* 并唱赞歌
 
-#### 3.3
+#### 3.3 Agora
 - *12众神画* 就在柱廊后面
 - *忒修斯，民主（Demokratia）和人民（Demos）的绘画* 在上一幅画对面；画的是忒修斯给雅典人民带来平等政治；根据某种民间传说，他把统治权力交给了人民，从此直到庇西特拉图夺权雅典都保持着民主政体。大部分人没什么历史知识，所以他们传信不实之言，包括从悲剧和演说家那里听来的话；忒修斯本人是国王，他的子孙，直到Menestheus去世，已经把王位把持在家族中长达4代人的时间。可惜保萨尼阿斯对谱系不感兴趣，不然他要列出从Melanthos岛Aisimides之子Kleidikos中间所有人的名字。
 
 
+#### 3.4 Agora
+- *壁画* 雅典人在Mantineia帮助斯巴达人（-362）；色诺芬和其他人（比如说普鲁塔克和西西里的狄奥多罗斯）纪录过整场战争，包括攻陷Kadmeia，斯巴达人在Leuktra被击败，贝奥提亚人入侵伯罗奔尼撒，遗迹雅典援军的到达；这幅画展现的是骑兵之战，雅典一方出色的战士是色诺芬之子Grylos，而忒拜城的Epaminondas则是贝奥提亚骑兵中的佼佼者；画家是Euphranor（前四世纪中叶的科林斯画家雕塑家艺术评论家）
+- *阿波罗神庙* 其中的父神（Patrous）阿波罗像也是Euphranor所作（他的[阿波罗像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Athens_Ancient_Agora_Apollo.jpg/800px-Athens_Ancient_Agora_Apollo.jpg)于1907年被发掘出，藏于Agora博物馆。他说自己的忒修斯时吃肉长大的而Parrhasios的忒修斯像是吃玫瑰长大的）；Leochares的阿波罗像（可能即是Apollo Belvedere）；Kalamis（五世纪中叶雕塑家，未有归名于他的作品流传下来）的辟邪者阿波罗（Alexikakos）雕像；据说辟邪者一名源于他通过德尔菲神谕终止了伯罗奔尼撒战争期间的雅典瘟疫
+
+#### 3.5 Agora
+- *众神之母圣所* 菲迪亚斯所作雕像（按照普林尼所说[NH, 36.17]此像可能是菲迪亚斯学徒所作。女神坐在王座上，座椅周围环绕狮子；圣所发掘出了一些小的石雕供品。圣所也是一个公共档案馆。第欧根尼曾住在在这个圣所的一个大桶里，像狗狗一样）
+- *五百人议事厅* 在众神之母圣所不远处。有一个议会宙斯（Boulaios）的木雕像，Peisias（hapax，别处查无此人）的阿波罗像，Lyson（唯有归名于他的传世作品）的Demos；考诺斯的Protogenes（前四世纪下半叶画家，50岁前都专业画船）画的立法者像，Olbiades（hapax，不知是谁）画的Kallipos将军，后者在温泉关带领雅典人击退了试图入侵希腊的高卢（加拉特）人（-297，见本书10，19-23）
+
+#### 4.1 历史课，高卢人的入侵
+高卢人住在欧洲大陆的远方，靠近一片难以航行的大海；那里的海怪和别处的也不一样；河流Eridanos流过他们的国度，河岸边，赫利奥斯的女儿在那里哀悼她们兄弟法厄同德悲剧（据说她们是杨树，眼泪是琥珀）；他们被称为高卢人是很后来的事情，古早时期他们那边的人互称“凯尔特人”。他们集结军队后朝伊奥尼亚海（Ionian sea）而来，先是赶走了伊利里亚人（Illyrians），他们和马其顿人之间的人，最后是马其顿人，统治了帖萨利。当他们靠近[温泉关](https://maps.app.goo.gl/zLtqTQDmWruR6grB7)时，大部分希腊人都放弃了抵抗，因为他们曾被亚历山大和菲利普狠狠击败；后来又来了Antipater和Cassander，每个城邦都如此的虚弱，以至于他们不参与抵抗也毫不害臊（
+
+#### 4.2 历史课，高卢人的入侵（II）
+但是！雅典人不一样！虽然在漫长的马其顿战争中他们比其他城邦耗费更多，饱尝败仗，却派了一支Callipus一世领导的军队，编入一些其他愿意抵抗的希腊人，前往温泉关。占据了最狭窄的隘口，抗击试图进入希腊的异邦人。但是凯尔特人发现了当年Trachis的Ephialtes带波斯人抄的小路，击败了驻扎在那里的福基亚人，在希腊人不知情的情况下悄悄翻过了[Oite山](https://maps.app.goo.gl/cK8tAxmAxU1rZ3QZ7)。
+
+#### 4.3 历史课，高卢人的入侵（III）
+因此雅典人狠狠地帮了希腊！他们两面包抄了这群蛮族；舰队也帮了大忙，尽管温泉关所在的Lamia湾是一片沼泽。为了攻击舰队，他们不得不驾驶着满载士兵和武器的船在泥地里航行。
+
+#### 4.4 历史课，高卢人的入侵（IV）
+如此这般，他们拯救了希腊。但是高卢人已经来到了温泉关南边，一心只想着攻占德尔菲，抢夺神的财宝。德尔菲人和帕纳索斯山周围的福基亚人奋勇抵抗；一支埃托利亚（Aetolia）军队已加入了防御阵线，当时埃托利亚人正兵强马壮；当时不仅有雷电和从帕纳索斯滚下的落石攻击高卢人，甚至还有穿着盔甲的幽影对抗这些蛮族军队。据说有两个来自极北之地（Hyperboreans），Hyperochos和Amadokos，还有一个是Pyrros，阿基琉斯的儿子。据说正是为此，德尔菲人给了Pyrros极大荣耀，为他设立了英雄祭坛，而此前他们将他视为敌人（据说Pyrros在劫掠圣所时被杀。保萨尼阿斯的叙述可能反映了三世纪时的某些复古潮流，但不实，因为品达就写过Pyrros在德尔菲的崇拜仪式[Nem，7.44-49]；也可看J. Fontenrose, *The Cult and Myth of Pyrros at Delphi*, 1960）
+
+#### 4.5 历史课，高卢人的入侵（V）
+大部分高卢人飘洋去了亚细亚，劫掠沿岸，不过一段时间后被Pergamon——旧Teuthrania人赶到了内陆；他们攻下了弗里吉亚城市Ankora——这座城的建立者是Gordios之子弥达斯，攻占了Sangarios对岸的土地（即Galatia）。弥达斯发明的锚（？！）至今仍保存在宙斯圣所中，同“弥达斯的喷泉”一起；传说弥达斯把酒混入喷泉，为了捕获Silenos。攻占了Ankora后，他们又占领了Agdistis山下的[Pessious](https://maps.app.goo.gl/9yCaUW27hHwHhsT28)，据说Attis埋葬于此。
+
+#### 4.6 历史课，高卢人的入侵（VI）
+Pergamon人从高卢人那里俘获了不少战利品；有一幅画描绘了他们的功绩。据他们所说，古时候他们住的地方是Kabeiroi的圣所（传说中的矮人神灵，最大的圣所在贝奥提亚，见本书9.25）；他们说他们的祖先是随着Telephos穿过小亚细亚的阿尔卡迪亚人。据说他们完成了三件著名的伟业：统治了下亚细亚，击退了高卢人，陪伴Telephos冒险，抗击阿伽门农的军队——希腊人本想去特洛伊却在中途迷了路，把这里当成特洛伊来劫掠（剧情未见诸荷马，可见欧里庇德斯的*Telephos*）
+
+#### 5.1 Agora
+- *Tholos* 五百人议事厅旁，议事会献祭的地方（硬粘土地板的圆形建筑，奥古斯都加上了一个门廊，给地板铺了大理石板；哈德良重新修缮了一下。这里也是议事会议长们的总部）；某些雕像是银质的，不过不大；高处有雅典各部族以其为名的英雄雕像；希罗多德研究了是谁用十部落替代了四部落、又更换了部落名这一问题
+
+#### 5.2 历史课，雅典人的名祖英雄
+1. Hippothoon，波塞冬和Cercyon之女Alope的儿子
+2. Antiochus，赫拉克勒斯和Phylas之女美狄亚的儿子
+3. 埃阿斯，特拉蒙之子
+4. Leos，雅典人在神谕的要求下放弃了他的女儿们
+5. Erechtheus，他成功对抗了厄留西斯人，杀了他们的头领Eumolops之子Himmarados
+6. 埃勾斯
+7. Oeneus，Pandion的私生子
+8. Acamas，忒修斯的孩子之一
+
+#### 5.3 历史课，雅典人的名祖英雄
+9. Kekrops (?)
+10. Pandion (?)
+
+保萨尼阿斯还看到了Kekrops和Pandion的雕像，但他不确定究竟他们是哪两个：第一个Kekrops娶了Aktaios的女儿，后来还有一个Kekrops生活在优卑亚，是Erichthonios之子Pandion之子Erechtheus之子；同样也有两个Pandion：一个是Erichthonios之子，还有一个是第二个Kekrops的次子，全家老小被流放到麦加拉（因为他的岳丈Pyles是麦加拉国王），病死在哪里，在海对面的麦加拉有一块纪念碑，写着雅典北鲣鸟（gannet）之石

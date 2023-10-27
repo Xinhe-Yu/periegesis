@@ -100,7 +100,8 @@ Aktaios是目前公认的阿提卡第一位国王；他死了以后，女婿Kekr
 Pergamon人从高卢人那里俘获了不少战利品；有一幅画描绘了他们的功绩。据他们所说，古时候他们住的地方是Kabeiroi的圣所（传说中的矮人神灵，最大的圣所在贝奥提亚，见本书9.25）；他们说他们的祖先是随着Telephos穿过小亚细亚的阿尔卡迪亚人。据说他们完成了三件著名的伟业：统治了下亚细亚，击退了高卢人，陪伴Telephos冒险，抗击阿伽门农的军队——希腊人本想去特洛伊却在中途迷了路，把这里当成特洛伊来劫掠（剧情未见诸荷马，可见欧里庇德斯的*Telephos*）
 
 #### 5.1 Agora
-- *Tholos* 五百人议事厅旁，议事会献祭的地方（硬粘土地板的圆形建筑，奥古斯都加上了一个门廊，给地板铺了大理石板；哈德良重新修缮了一下。这里也是议事会议长们的总部）；某些雕像是银质的，不过不大；高处有雅典各部族以其为名的英雄雕像；希罗多德研究了是谁用十部落替代了四部落、又更换了部落名这一问题
+- *Tholos* 五百人议事厅旁，议事会献祭的地方（硬粘土地板的圆形建筑，奥古斯都加上了一个门廊，给地板铺了大理石板；哈德良重新修缮了一下。这里也是议事会议长们的总部）；某些雕像是银质的，不过不大
+- [*名祖雕像*](https://maps.app.goo.gl/DKiGSxnAuojffCfq5) 高处有雅典各部族以其为名的英雄雕像；希罗多德研究了是谁用十部落替代了四部落、又更换了部落名这一问题
 
 #### 5.2 历史课，雅典人的名祖英雄
 1. Hippothoon，波塞冬和Cercyon之女Alope的儿子
@@ -112,8 +113,51 @@ Pergamon人从高卢人那里俘获了不少战利品；有一幅画描绘了他
 7. Oeneus，Pandion的私生子
 8. Acamas，忒修斯的孩子之一
 
-#### 5.3 历史课，雅典人的名祖英雄
+#### 5.3 历史课，雅典人的名祖英雄（II）
 9. Kekrops (?)
 10. Pandion (?)
 
-保萨尼阿斯还看到了Kekrops和Pandion的雕像，但他不确定究竟他们是哪两个：第一个Kekrops娶了Aktaios的女儿，后来还有一个Kekrops生活在优卑亚，是Erichthonios之子Pandion之子Erechtheus之子；同样也有两个Pandion：一个是Erichthonios之子，还有一个是第二个Kekrops的次子，全家老小被流放到麦加拉（因为他的岳丈Pyles是麦加拉国王），病死在哪里，在海对面的麦加拉有一块纪念碑，写着雅典北鲣鸟（gannet）之石
+保萨尼阿斯还看到了Kekrops和Pandion的雕像，但他不确定究竟他们是哪两个：第一个Kekrops娶了Aktaios的女儿，后来还有一个Kekrops生活在优卑亚，是Erichthonios之子Pandion之子Erechtheus之子；同样也有两个Pandion：一个是Erichthonios之子，还有一个是第二个Kekrops的次子，全家老小被Metionidae家族流放到麦加拉（因为他的岳丈Pyles是麦加拉国王），病死在哪里，在海对面的麦加拉有一块纪念碑，写着雅典海鸟（αἴθυια）之石（雅典娜最初可能也是一位鸟女神[Od. 3.371-372]。大部分雅典娜的鸟都是夜行和预示坏兆头的，关于墓碑的内容见本书1.41.6）
+
+#### 5.4 历史课，雅典人的名祖英雄（III）
+接上文，第二个Pandion的儿子们从麦加拉回来，赶走了Metionidae家族；长子Aigeus掌握了雅典的统治权。上天没有眷顾Pandion儿子们的的生育状况：他们生的全是女儿，没人能为他复仇，尽管他与色雷斯国王联姻了（关于索福克勒斯的丢失悲剧Tereus，讲的是特雷斯国王Tereus与Pandion之女Prokne结婚，生了一个儿子Itys；Tereus诱拐了Prokne的姐妹Philomela，割了她的舌头；Prokne通过织布，向Prokne传达了之前发生的事情；Prokne找到了Philomela，杀了她自己的儿子，用他的肉做菜招待Tereus；姐妹俩溜了，但是Tereus抄上斧头追去。悲伤的Prokne化身成了夜莺，而Philomela成为了燕子，Tereus则变成了戴胜。见Od. 19.158）；没人可以躲开神圣的命运：据说Tereus和Prokne结婚，又侵犯了Philomela，这一行为不符合希腊的习俗律法，损害女性躯体的行为需要复仇。Pandion还有一个值得一看的雕塑，立在卫城上。
+
+
+#### 5.5 历史课，雅典人的名祖英雄，并夸哈德良（IV）
+以上说的是旧时的雅典名祖。后来他们新的部落名来自于：Mysia人Attalus，埃及的托勒密，还有哈德良，功德卓著，从未想要发动战争，不过他镇压了叙利亚周遭的犹太人造反。他建造了一些众神圣所，还给另一些添置了供品和物件。
+
+#### 6.1 托勒密
+Attalus和Ptolemy的时代要早一点。
+
+
+> ... 直到章I.8.1都是历史故事，暂且略过，有空补上
+
+#### 8.2 Agora
+- *众神雕像* 在名祖英雄雕像旁边；Amphiaraus（是个先知，据说在忒拜陷落后，在Oropos旁边被一处深渊连带着他的马一起吞没了），Eirene（和平）抱着男孩Plutus（财富）（这个雕像很可能是Kephisodotos的作品，在慕尼黑博物馆有一个罗马复制品。1660年代，相似的雕塑在Agora的Hagios Dionysos教堂被发掘出来，但是主教为了宗教原因把它敲碎了）
+- *诸多铜像* Lycophron之子吕库古像，Xerxes之子Callias像，据说后者促成了希腊人和Artaxerxes之间的和平（-449）；还有德摩斯梯尼像，雅典人先把他流放到Troizen旁边的[Poros岛](https://maps.app.goo.gl/Q3GJPimo4637AgEt5)上，在Lamia大败后为了把他再流放了一次召回了雅典。
+
+#### 8.3 德摩斯梯尼的故事续
+第二次流放时，德摩斯梯尼再次来到Poros（Pausanias写作“Kalaureia”），饮鸩自尽了。他是唯一一个没被Archias转到Antipater或马其顿人手里的被流放的希腊人。Thurii人Archias犯下了令人神厌恶的罪行，在帖萨利之战前，他叫Antipater来惩罚所有与马其顿人对抗的希腊人。德摩斯梯尼对雅典人情深，但好像据我所知，无私奉献、无条件相信人民的人没一个好下场。
+
+#### 8.4 Agora
+- [*阿瑞斯圣所*](https://maps.app.goo.gl/48BSTYjpQxbWLPQBA)（是一个五世纪后期的多立克式神庙） 在德摩斯梯尼雕像旁边。
+- *诸多雕像* 还有两座阿弗洛狄特像，Alkamenes的阿瑞斯像遗迹一个名为Lokros的帕洛斯人做的雅典娜像，还有一个Praxiteles之子做的Enyo（阿瑞斯亲属）像。神庙周围有赫拉克勒斯，忒修斯和正在系头带的阿波罗像，Kalades的胸像，据说他为雅典写了一些小曲（或可解读为“法律”，但无论如何别的作者没提过这个名字，应是文本错误），还有品达，主要因为他为雅典写了一些诗（普鲁塔克提到过，阿里斯托芬戏仿过，哈利卡纳索斯的狄奥尼修斯引用过[De Comp. Verb. 22]）；还有Harmodios和Aristogiton像，由Kritios（和Nesiotes）所作，旧版的作者是Antenor，这个版本被薛西斯攻陷雅典时掠走了，后来Antiochos又送回了雅典
+
+#### 8.5 Agora
+- *国王雕像* 在剧场入口前陈列着埃及诸国王的雕像。他们都叫托勒密，但有不同的绰号：爱母者Philometor，爱姐妹者Philadelphos和救主Soter，最后一位是Lagus之子，罗得岛人送他救主的名号。爱姐妹者我之前讲名祖英雄时提到过，他身边还有他姐妹Arsinoe的像。
+
+#### 9.1
+“爱母者”是托勒密六世；他的绰号是搞笑来的，因为从没有一个国王如此被母亲憎恨；他是长子，但是他妈拒绝他登上王位，她让他爸把他派到塞浦路斯去。他妈妈Cleopatra如此恨她儿子的原因可能是她更喜欢另一个听话的儿子小亚历山大，希望埃及人选他做国王。
+
+
+> ... 直到章I.10.5都是历史故事（Lysimachus of Macedonia），暂且略过，有空补上
+
+#### 11.1 Agora
+- *Pyrrhus雕塑* 大概和亚历山大只有点血缘关系；他是Arybbas之子Aeacides之子Pyrrhus，Alexander是Neoptolemus之女Olympias之子，Tharypus之子Alcetas是Neoptolemus和Aryblas之父。从Tharypus到阿基琉斯之子Pyrros之间隔了15代。特洛伊陷落后，Pyrros最初不想回到帖萨利，到达了Epiros并定居于此。这也是Helenos神谕的结果。他和Hermione没孩子，和安德洛马克生了Molossos，Pielos和Pergamos。他在德尔菲被杀时，安德洛玛克嫁给了Helenos，生了个孩子叫Kestrinos。
+
+> ... 直到章I.13.9都是历史故事（Pyrros of Macedonia），暂且略过，有空补上
+
+#### 14.1 Odeon
+- [*Odeion*](https://maps.app.goo.gl/4KPhXuMiPMUaFsTk6)（阿格里巴在前15年建了旧Odeion；保萨尼阿斯看到的是新的，新的在3世纪中期也塌了；见本书1.91）狄奥尼索斯像值得一看
+- *九泉（Enneacrunos）* 有九处水源的取水屋（fountain-house，如今不见踪迹），可能是庇西特拉图下令所建。某一泉眼的遮蔽建筑属于德墨忒尔和她的女儿（德墨忒尔神庙在Agora的东南角，在通往卫城的游行大道开始爬坡的地段。神庙地基抬高，Ennius在他的《美狄亚》开场中将其视作一个地标），还有一处归于Tripolemus，里面有他的雕像。保萨尼阿斯觉得应该讲讲他的故事，但是避开关于其女儿Deiope的那部分。
+

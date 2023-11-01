@@ -256,4 +256,20 @@ Menestheus不管忒修斯的孩子们，他们偷偷溜去了优卑亚的Elephen
 - [*Lyceum*](https://maps.app.goo.gl/URr2y8wTP26Tj9EX8) 名字来源于Pandion之子Lykus；不过在保萨尼阿斯的时代，人们以为这里自古以来就是阿波罗的圣地，所以阿波罗也被称为吕基亚的（Λύκειος，吕基亚位于小亚细亚西南）阿波罗。据说人们也是这么解释为什么关于Termilai（据说是萨尔佩冬带领的定居在吕基亚的）被称为“Lykian”的：Lykos为了躲避埃勾斯跑去了那里，当地人因此得名。
 
 #### 19.4 Lyceum区域
-- *Nisus纪念碑* 在Lyceum旁边。这个人是麦加拉国王，被Minos杀了，雅典人为他殓尸，埋葬了他。有一个关于他的传说故事，说他脑袋上的头发是海草，剪头发的时候人就没了；克里特人入侵这边的时候，他们把Meagrid所有其他的城市都攻占了，但是Nisos躲到Niseia（Meagrid地区的港口）避难，他们想要攻占城市；但是Nisos的女儿爱上了Minos，剪下了他爸的头发。
+- *Nisus纪念碑* 在Lyceum旁边。这个人是麦加拉国王，被Minos杀了，雅典人为他殓尸，埋葬了他。有一个关于他的传说故事，说他脑袋上的头发是海草，剪头发的时候人就没了；克里特人入侵这边的时候，他们把Meagrid所有其他的城市都攻占了，但是Nisos躲到Niseia（Meagrid地区的港口）避难，他们想要攻占城市；但是Nisos的女儿爱上了Minos，剪下了他爸的头发。事情就是这样的。
+
+#### 19.5 雅典水文：Ilisos和支流Eridanos
+穿过雅典的河名为Ilissos（源自[Hymettos山](https://maps.app.goo.gl/ahF8NJ2FcT5E3TKW8)，在[Kaisariani修道院](https://maps.app.goo.gl/q3XLgRBXxfkrWS7H9)高处），它的支流和凯尔特地区的Eridanos河同名（雅典的Eridanos源自[Likavittos山](https://maps.app.goo.gl/b59XjwXHzmEoXUur5)的地下泉，见斯特拉波，9.1.19）。据说Orethuia被北风神（Βορέας）掠走的时候正是在这条Ilissos河边玩耍；因为这层姻亲关系，北风神帮助雅典人摧毁了蛮族人的战舰（见Hdt，8.189）；雅典人在Ilissos河畔也供奉其他神明，包括Ilissos的缪斯；据说也是在这里，伯罗奔尼撒人杀了Melanthus之子Kodrus，当时的雅典国王。
+
+#### 19.6 田野区
+- *阿尔特弥斯Agrotera（猎手）神庙*（未被确定定位） 位于跨过Ilisus是田野区（Ἄγραι）；据说从德洛岛来的阿尔特弥斯是首位在这边狩猎的人；所以她在这里的雕像中手握猎弓。
+
+- *白色大理石体育场* 听起来无趣却看起来令人惊叹。
+
+- *希罗德剧院* 沿Ilissos河畔边的山丘而建，建造者是雅典人希罗德（Herodes），大部分材料来自[Pentelic山](https://maps.app.goo.gl/J15yV7dKbpzYupir5)的大理石采石场（在古代就是雅典大理石的来源；此地开采的大理石有微微闪光的细纹），几乎把它采空了
+
+#### 20.1 三角鼎路和Praxiteles的奇闻轶事
+通向Prytaneion的路叫三角鼎路；之所以叫这个名字，是因为有一处圣所里储藏了许多铜质三角鼎，三角鼎里面的内容物也十分有趣，比如说一尊据说是Praxiteles制作的萨梯像。传说当Phryne问及他最出众的作品时，Praxiteles以他的爱承诺会给她最棒的那一个，但却拒绝指明究竟是哪一个。于是Phryne的一个仆从跑去找Praxiteles，告诉他家里着火了，大部分作品都不见了。
+
+#### 20.2 Praxiteles的奇闻轶事（II）
+Praxiteles冲出门，大喊着如果大火吞噬了萨梯和厄罗斯，那他的辛苦工作就全都白费了。Phryne告诉他没什么好担心了，除了他上当时说出了他自己最有价值的作品。于是她挑走了厄罗斯，萨梯雕像则放在旁边的狄奥尼索斯神庙里，毗邻一个拿着杯子的狄奥尼索斯男孩雕塑；狄奥尼索斯雕像的作者是Thymilus（不知道是谁）。

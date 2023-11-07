@@ -3,11 +3,11 @@
 #### 1.1 Sounium promontory
 - *雅典娜神庙*
 - *Laurium* · [Laurium考古博物馆](https://maps.app.goo.gl/TMA6FqhGjjvem3oZ9) 雅典银矿
-- [*Island of Patroclus*](https://maps.app.goo.gl/W8aPRLBTqHAdNrbG7) 托勒密将军Patroclus曾建起防御工事抵御Antigonus，Demetrius之子的入侵
+- [*Island of Patroclus*](https://maps.app.goo.gl/W8aPRLBTqHAdNrbG7) 托勒密的将军Patroclus曾建起防御工事抵御Demetrius之子Antigonus的入侵
 
 #### 1.2 Peiraeus
 - *Peiraeus* 此地从Themistocles任执政官起成为雅典港口，因为它有三个港湾，胜过Phalerum的一个
-- [*Phalerum*](https://maps.app.goo.gl/2JJnpyayEuYnbNaB9) 雅典旧港，据说Menestheus从此启航去特洛伊，忒修斯前往克里特偿还Androgeos之死的债，以满足米诺斯
+- [*Phalerum*](https://maps.app.goo.gl/2JJnpyayEuYnbNaB9) 雅典旧港，据说Menestheus从此启航去特洛伊，忒修斯也是从这里前往克里特偿还Androgeos之死的债，以满足米诺斯
 - [*Themistocles之墓*](https://maps.app.goo.gl/DFuZf3bkRypsVgG68) 位于Peiraeus最大的港湾旁，他的遗骸由其亲属自Magnesia赎回，他的孩子们在帕特农设下了一幅Themistocles的肖像画
 
 #### 1.3 Peiraeus
@@ -334,7 +334,7 @@ Taxilus也是Mithridates的一个将军，阿提卡战事发生时正在Phokis�
 - *画廊* 在入口的左边有一栋收着许多绘画的建筑。在那些没有被时光所磨灭的画作中，保萨尼阿斯还能看到的有：奥德修斯在Lemnos岛偷Philoketetes的弓；Diomedes从特洛伊偷走雅典娜像；Orestes杀了Aegisthus，Pylades杀了冲过来想要救援的Nauplius诸子；Polyxena即将被献祭在阿基琉斯墓前。荷马用沉默应对了这一野蛮的行为。保萨尼阿斯认为荷马在处理阿基琉斯和[Skyros岛](https://maps.app.goo.gl/BM8DtbV9wtk9eeq86)的关系上也做得很好：在他笔下，阿基琉斯攻占了Skyros，而不是按照传说的那样，他在Skyros岛和年轻女孩们生活在一起。Polygnotos画了后一个版本。他还画了奥德修斯搁浅在浅滩上时，Nausicca和其他妇人一起在河边浣衣的景象，就像荷马描绘的那样。
 
 #### 22.7 画廊（II）
-旁边还有别的画，包括：一副亚西比德肖像，有标志显示他在尼米亚赛马中的胜利；珀尔修斯前往Seriphos的路上，把美杜莎的头带给Polydektes（珀尔修斯的复仇行为：这位哥打开袋子看到美杜莎的头就被石化了）。保萨尼阿斯：我不想在描述阿提卡时讲太多美杜莎的故事。除此以外还有：拿着水罐的男孩和Timainetos画的摔跤手；Mousaios的画像。保萨尼阿斯曾读过一首诗，里面提到Mousaios会飞，是来自北风神的赠礼。这首诗应该是Onomakritos写的；除了写给Lykomidai家族的《德墨忒尔颂诗》，目前没有其他Mousaios的作品流传下来。
+旁边还有别的画，包括：一副亚西比德肖像，有记号纪念他在尼米亚赛马中的胜利；珀尔修斯前往Seriphos的路上，把美杜莎的头带给Polydektes（珀尔修斯的复仇行为：这位哥打开袋子看到美杜莎的头就被石化了）。保萨尼阿斯：我不想在描述阿提卡时讲太多美杜莎的故事。除此以外还有：拿着水罐的男孩和Timainetos画的摔跤手；Mousaios的画像。保萨尼阿斯曾读过一首诗，里面提到Mousaios会飞，是来自北风神的赠礼。这首诗应该是Onomakritos写的；除了写给Lykomidai家族的《德墨忒尔颂诗》，目前没有其他Mousaios的作品流传下来。
 
 #### 22.8 雅典卫城
 在进入卫城入口右侧有赫尔墨斯守门者（Προπύλαιος）和美惠女神的雕塑，据说是Sophroniscus之子苏格拉底的作品，德尔菲认证最聪明的人，这个名号是Anacharsis（七智者之一，斯基泰人，希罗多德谈过他的死[Hdt, 4.76]）来到德尔菲想要求得的，神谕却将其给了他人
@@ -459,3 +459,15 @@ Troizen人有一个关于忒修斯的传说是这样的：当赫拉克勒斯在T
 
 #### 27.10 雅典卫城
 据说这头公牛从克里特一路来到伯罗奔尼撒，成为了赫拉克勒斯的十二功绩之一；它穿过阿尔戈斯的平原，从科林斯的伊斯米亚地峡，进入阿提卡，直到马拉松地区，杀了所有挡在它面前的生物，亦包括米诺斯之子Androgeos。米诺斯带着舰队朝雅典而来，不相信雅典人在他儿子之死一事里无辜，一直品番骚扰雅典人，直到他收到雅典人献给克诺索斯迷宫中米诺陶的七男七女。至于马拉松的公牛，后来被忒修斯带到卫城，献祭给了女神，纪念这桩功绩的供奉品目前在马拉松。
+
+#### 28.1 雅典卫城
+- *Kylon铜像* Kylon（前七世纪晚期）推行僭政，保萨尼阿斯很奇怪为什么会有他的雕像，于是研究了一番，发现他十分俊美，名声远扬，还在和麦加拉僭主Theagenes的女儿结婚前后获得了奥林匹亚竞技会往返跑（Diaulos）项目的冠军
+
+#### 28.2 雅典卫城
+- *青铜雅典娜* 用从马拉松战役中波斯人手上缴获战利品的十分之一做的（？不确定句意是否如此）；菲迪亚斯的作品，不过盾牌上刻画马人和拉庇泰人战斗的浮雕出自Mys的凿子，据说他的作品都是是Evenor之子Parrhasius为他设计的（一对五世纪晚期的合作伙伴）；从海路前来雅典的人，只要经过了Sunium海岬，就能看到这尊雅典娜的矛尖和头盔顶饰
+- *青铜战车* 是贝奥提亚和优卑亚的卡尔基斯人的战利品的十分之一（希罗多德也曾提过这辆战车[Hdt，5.77]）
+- *伯里克利雕塑* Xanthippus之子
+- *雅典娜Leminas（Λήμνιος）雕塑* 菲迪亚斯诸多作品中最有意思的，名字来源于赞助者（后世对这尊雕像所知甚少，只知道它以美貌出名）
+
+#### 28.3 雅典卫城
+- *围墙*（南部是迈锡尼时期修建的城墙，在山门后面的西南角还能看到） 卫城四面都有围墙。一部分由Miltiades之子Kimon所建，其他部分则是佩拉斯吉（Pelasgia）人所建，他们曾在卫城脚下生活。据说建筑工是Agrolas和Hyperbios（可能是传说中的半神英雄，就像特洛伊和忒拜也有类似的建筑城墙的故事）。保萨尼阿斯试图探寻他们的身份，但一无所获，只知道他们是源于西西里、在Akarnania生活的人

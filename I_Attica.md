@@ -2,7 +2,7 @@
 
 #### 1.1 Sounium promontory
 - *雅典娜神庙*
-- *Laurium* · [Laurium考古博物馆](https://maps.app.goo.gl/TMA6FqhGjjvem3oZ9) 雅典银矿
+- *Laurium* [Laurium考古博物馆](https://maps.app.goo.gl/TMA6FqhGjjvem3oZ9) 雅典银矿
 - [*Island of Patroclus*](https://maps.app.goo.gl/W8aPRLBTqHAdNrbG7) 托勒密的将军Patroclus曾建起防御工事抵御Demetrius之子Antigonus的入侵
 
 #### 1.2 Peiraeus
@@ -560,3 +560,30 @@ Lukourgos为公共财富收集的钱比伯里克利还多了6500塔兰特。他�
 - *普罗米修斯祭坛* 这里举办赛跑比赛：从这里人们点着火把向城市跑去，全程保持火把燃烧；如果跑第一的人火把灭了，那么第二名就赢了；如果第二名的火把也灭了，那就是第三名获胜。如果所有火把都灭了，那就没有胜者（雅典许多节日都有火把跑步赛。不过这里的这个能体现这类比赛最初始的意义。这个祭坛共同供奉普罗米修斯和赫淮斯托斯）
 - *其他祭坛* 缪斯祭坛；赫尔墨斯祭坛；雅典娜祭坛；赫拉克勒斯祭坛
 - *橄榄树* 据说是雅典第二棵
+
+#### 30.3 Academia
+- *柏拉图纪念碑* 在Academia不远的地方。诸神告诉他，他会成为最优秀的哲学家，这就是他们告诉他的方法：在柏拉图成为苏格拉底的学生的前夜，苏格拉底梦到一只天鹅飞到了他的怀里。天鹅是闻名的与音乐相关的动物，因为利古里亚国王Kyknos（古希腊文中κύκνος=天鹅）是一个音乐家，他穿过莱茵河，来到凯尔特人的国度，死时在阿波罗的意志下变形为天鹅。保萨尼阿斯认为利古里亚国王可以是一个音乐家，但是人变成鸟实在是难以置信
+
+#### 30.4 Academia
+- *Timon塔* 在Academia在Timon塔，这是人类中唯一以他人躲避不及为乐的人
+- *[马匹的Kolonos](https://maps.app.goo.gl/LWDAXgEHWRPvZUHeA)（Κολωνός，雅典北边的一处山丘）* 据说俄狄浦斯从这里进入雅典；不在荷马的记述中，但是人们如此口口相传
+- *波塞冬马匹和雅典娜马匹的祭坛*
+- *英雄祭坛* 纪念Peirithous、忒修斯、俄狄浦斯和Adrastos
+- *波塞冬圣林和神庙* 在Antigonos入侵雅典时放火损毁了
+
+#### 31.1 阿提卡乡间
+阿提卡乡间的几个小镇，也有值得一见的景观。
+- *立法者德墨忒尔和科瑞神庙* 在[Halimus](https://maps.app.goo.gl/nJ1D4ysvaoPXKfGJ6)
+- *雅典娜祭坛* 在[Zoster](https://maps.app.goo.gl/fJMKCi8MGMHS314D9)（古希腊语ζωστήρ=腰带）的海岸边
+- *阿波罗、阿尔特弥斯和勒托的祭坛* 也在Zoster；据说勒托在临产时在那里解下了自己的腰带，该地由此得名
+- *德墨忒尔和科瑞圣所* 在[Prospalta](https://maps.app.goo.gl/pa3grHqDsAN2oZZN6)也有一个
+- *众神之母（Cybele）圣所* 在[Anagyrous](https://maps.app.goo.gl/cJE2xNiSAqLsbgde9)
+- *Dioskouroi信仰* 在[Kephale](https://maps.app.goo.gl/8XRnAJqbihsAs9r38)的人特别信卡斯托尔和波吕丢克斯
+
+#### 31.2 阿提卡乡间
+- *阿波罗圣所* 在[Prasiai](https://maps.app.goo.gl/T5qFdBSHc6BMFuRb8)。据说极北之人的把最初的水果带到了这里；极北之人把它给了Arimaspians，Arimaspians带到了Issedones；Issedones——斯基泰人带到了[Sinope](https://maps.app.goo.gl/8ebsAC46ricYX3qE9)，希腊人又给带到了Prasiai；后来雅典人又给带去了德洛岛。最初的果实被藏在小麦杆里，无人所知
+- *Eryschthon纪念碑* 把德洛岛的仪式带到了雅典；他死在海上
+
+#### 31.3 阿提卡乡间
+- *Kranaos纪念碑* 保萨尼阿斯已经讲过Amphiktyon如何驱除了他的近亲Kranaos，昔日的雅典国王；据说他和他的同伴逃向了[Lamptrai](https://maps.app.goo.gl/91UvXNZuQXrLwmV28)，死并葬在了那里
+- *Xouthos之子Ion墓* 在Potamoi（Laurium北侧）；Ion是与厄留西斯作战时雅典人的将领

@@ -586,4 +586,17 @@ Lukourgos为公共财富收集的钱比伯里克利还多了6500塔兰特。他�
 
 #### 31.3 阿提卡乡间
 - *Kranaos纪念碑* 保萨尼阿斯已经讲过Amphiktyon如何驱除了他的近亲Kranaos，昔日的雅典国王；据说他和他的同伴逃向了[Lamptrai](https://maps.app.goo.gl/91UvXNZuQXrLwmV28)，死并葬在了那里
-- *Xouthos之子Ion墓* 在Potamoi（Laurium北侧）；Ion是与厄留西斯作战时雅典人的将领
+- *Xouthos之子Ion墓* 在Potamoi（Laurium北侧）；Ion是与厄留西斯作战时雅典人的将领。据说故事就是这样的
+
+#### 31.4 阿提卡乡间
+- *祭坛* 在Phyla和[Myrrhinus](https://maps.app.goo.gl/dVTjJWRC7XheBXAq8)都有如下神祇祭坛：阿波罗Dionysodotus、阿尔特弥斯Selasphora（持光的，σελασ·φόρος），花神狄奥尼索斯，Ismenos河（Ἰσμηνίς）诸宁芙；盖亚，被称为伟大女神
+- *神庙* 里面有如下神祇祭坛：德墨忒尔Anesidora（ἀνησι·δώρα，播撒者）；宙斯Ktesius（κτήσιος，家庭保护者）；雅典娜Tithrone；初生的科瑞（Πρωτογόνη）；被称作“受尊敬”（σεμνός）的女神
+
+#### 31.5 阿提卡乡间
+在在Myrrhinus阿尔特弥斯Kolainis木雕塑，在Athmon，人们有阿尔特弥斯[Amarynthos](https://maps.app.goo.gl/rczP9iKZgqefC9Lo6)的崇拜，但是保萨尼阿斯在这两处都没有找到知道具体位置的向导，他猜测事情可能是这样的：在优卑亚有一个Amarynthos，人们在那里崇拜Amarynthos阿尔特弥斯；但是雅典人有一个Amarynthos节庆，和优卑亚的那个同样出名。阿尔特弥斯可能在Athmon获得了了这个名字，Myrrhinus的Kolainis之名是为了纪念Kolainos。许多雅典人声称Kekrops不是第一个国王，据说Kolainos是一个在Kekorps之前的Myrrhinus地区统治者
+
+#### 31.6 阿提卡乡间
+有一片区域叫Acharnae，人们崇拜阿波罗大街之神（ἀγυιεύς），赫拉克勒斯，还有一个雅典娜健康（Ὑγεία）的祭坛。他们还有如下称呼：雅典娜马神（Ἱππία），狄奥尼索斯歌者（Melopomenos）以及狄奥尼索斯常春藤（κισσός），据说常春藤最初就是在这里生长的
+
+### 31.7 阿提卡山区
+阿提卡的山有：Pentelicus，有采石场；Parnes，可以猎野猪和熊；Hymettus，有除了Alazones之外最大的蜜蜂牧场。事实上，这些蜜蜂都是散养的，非常温顺，不会叮别的生物，它们不住在蜂房里，而是在整片土地上工作；他们生产的物质非常坚硬，难以把蜂蜡和蜂蜜分离。

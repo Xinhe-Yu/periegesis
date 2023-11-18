@@ -642,3 +642,16 @@ Miltiades是唯一一个有私人纪念碑的。他因为帕罗斯的失败在�
 
 #### 33.8 Rhamnus
 菲迪亚斯听说过这个故事。他雕刻的是海伦被从Nemesis手中抱到勒达怀里的故事。他还雕了廷达瑞俄斯和他的儿子们、一个叫Hippeus的男人牵着一匹马、阿伽门农和Menelaos，还有阿基琉斯之子Pyrrhus，也就是第一个娶海伦之女Hermione为妻的人。Orestes被忽略了，因为他的弑母之罪，尽管Hermione一直陪伴着他，还为他生了儿子。旁边还有Epochos和另一个年轻人。保萨尼阿斯对他们一无所知，只知道他们是Oinoe的兄弟——阿提卡的[Oinoi](https://maps.app.goo.gl/XXFN3qnBWhjZv7TQ8)地区就因他得名。
+
+#### 34.1 Oropus
+[Oropus](https://maps.app.goo.gl/oBTRtjB5jZbo6mhM9)（注：并非如今Oropus，而是Skala Oropou）保萨尼阿斯的时代，雅典人占领着阿提卡和Tanagra之间的Oropos，尽管他们本来属于贝奥提亚人。贝奥提亚人为这块地征战不休，没有稳定占领它，知道菲利普在攻下忒拜之后把这里送给他们。这座城市靠海，没什么值得注意的东西，不过在一英里半（12 stades）以外有[Amphiaraos圣所](https://maps.app.goo.gl/qpQzTiYBDy2uACDv9)。
+
+#### 34.2 Oropus
+传说Amphiaraos从忒拜逃跑时，大地裂开，吞没了他和他的战车。不过这件事并不在此地发生，而在忒拜往Chalkis路上。最先把Amphiaraos当作神信奉的就是Oropus人，后来全希腊的人都把他视若神明。保萨尼阿斯列举了一下其他被奉若神明的凡人：Protesilaos在Chersonese的Eleous，Trophonios在贝奥提亚城市Lebadeia，还有Amphiaraus在Oropos有一座神庙和白色大理石像。
+
+#### 34.3 Oropus
+祭坛分为几部分，一部分供奉赫拉克勒斯，宙斯和阿波罗治愈者（Παιών），另一部分则供奉英雄和他们的妻子，第三部分供奉赫斯提亚，赫尔墨斯，Amphiaraos以及Amphilochos的子孙。不过Alkmaion既不与Amphiaraos一起受到供奉，也不和Amphilochos一起，为的是他在Eriphyle做的那些事（Alkmaion是Amphiaraos和Eriphyle的儿子。Amphiaraos遇见了忒拜的灾难，但是他的妻子收受贿赂，骗他去那里履行职责；Alkmaion回家时杀了她。Amphilochos是Alkmaion的兄弟）。祭坛的第四个部分供奉阿弗洛狄特，Panakeia（Asklepios之女），伊阿宋和雅典娜治愈者。第五个献给诸宁芙和潘神，Achelous河神河Kephisus。雅典人在城里有一个供奉Amphilochos的祭坛，在西里西亚的Mallos有一处他的最值得信任的神谕所。
+
+#### 34.4 Oropus
+Oropos人在圣所附近有一个泉眼，被称为Amphairaos之泉。他们从不在那里献祭，也不用来做净化仪式的水或是拿来当圣水的原材料，不过每当有人的疾病通过神谕指引治好后，就会按照习俗把银币或是金币投入泉中，因为据说Amphiaraos就是这样擢升成神的。克诺索斯的Ophon把神谕编成了诗行，他说Amphiaraos预言了阿尔戈斯人向忒拜进军一事。他的诗歌对常人有着超乎寻常的吸引力，但事实上那些罹患阿波罗疯病的人以外，古代的占卜者没有一个是真正的先知，他们擅长释梦，判断鸟类飞行的痕迹，探测神圣的内脏。
+

@@ -3,7 +3,7 @@
 #### 1.1 Sounium promontory
 - *雅典娜神庙*
 - *Laurium* [Laurium考古博物馆](https://maps.app.goo.gl/TMA6FqhGjjvem3oZ9) 雅典银矿
-- [*Island of Patroclus*](https://maps.app.goo.gl/W8aPRLBTqHAdNrbG7) 托勒密的将军Patroclus曾建起防御工事抵御Demetrius之子Antigonus的入侵
+- [*Island of Patroklos*](https://maps.app.goo.gl/W8aPRLBTqHAdNrbG7) 托勒密的将军Patroklos曾建起防御工事抵御Demetrius之子Antigonus的入侵
 
 #### 1.2 Peiraeus
 - *Peiraeus* 此地从Themistocles任执政官起成为雅典港口，因为它有三个港湾，胜过Phalerum的一个
@@ -127,7 +127,7 @@ Attalus和Ptolemy的时代要早一点。
 > ... 直到章I.8.1都是历史故事，暂且略过，有空补上
 
 #### 8.2 Agora
-- *众神雕像* 在名祖英雄雕像旁边；Amphiaraus（是个先知，据说在忒拜陷落后，在Oropos旁边被一处深渊连带着他的马一起吞没了），Eirene（和平）抱着男孩Plutus（财富）（这个雕像很可能是Kephisodotos的作品，在慕尼黑博物馆有一个罗马复制品。1660年代，相似的雕塑在Agora的Hagios Dionysos教堂被发掘出来，但是主教为了宗教原因把它敲碎了）
+- *众神雕像* 在名祖英雄雕像旁边；Amphiaraos（是个先知，据说在忒拜陷落后，在Oropos旁边被一处深渊连带着他的马一起吞没了），Eirene（和平）抱着男孩Plutus（财富）（这个雕像很可能是Kephisodotos的作品，在慕尼黑博物馆有一个罗马复制品。1660年代，相似的雕塑在Agora的Hagios Dionysos教堂被发掘出来，但是主教为了宗教原因把它敲碎了）
 - *诸多铜像* Lycophron之子吕库古像，Xerxes之子Callias像，据说后者促成了希腊人和Artaxerxes之间的和平（-449）；还有德摩斯梯尼像，雅典人先把他流放到Troizen旁边的[Poros岛](https://maps.app.goo.gl/Q3GJPimo4637AgEt5)上，在Lamia大败后为了把他再流放了一次召回了雅典。
 
 #### 8.3 德摩斯梯尼的故事续
@@ -647,11 +647,31 @@ Miltiades是唯一一个有私人纪念碑的。他因为帕罗斯的失败在�
 [Oropus](https://maps.app.goo.gl/oBTRtjB5jZbo6mhM9)（注：并非如今Oropus，而是Skala Oropou）保萨尼阿斯的时代，雅典人占领着阿提卡和Tanagra之间的Oropos，尽管他们本来属于贝奥提亚人。贝奥提亚人为这块地征战不休，没有稳定占领它，知道菲利普在攻下忒拜之后把这里送给他们。这座城市靠海，没什么值得注意的东西，不过在一英里半（12 stades）以外有[Amphiaraos圣所](https://maps.app.goo.gl/qpQzTiYBDy2uACDv9)。
 
 #### 34.2 Oropus
-传说Amphiaraos从忒拜逃跑时，大地裂开，吞没了他和他的战车。不过这件事并不在此地发生，而在忒拜往Chalkis路上。最先把Amphiaraos当作神信奉的就是Oropus人，后来全希腊的人都把他视若神明。保萨尼阿斯列举了一下其他被奉若神明的凡人：Protesilaos在Chersonese的Eleous，Trophonios在贝奥提亚城市Lebadeia，还有Amphiaraus在Oropos有一座神庙和白色大理石像。
+传说Amphiaraos从忒拜逃跑时，大地裂开，吞没了他和他的战车。不过这件事并不在此地发生，而在忒拜往Chalkis路上。最先把Amphiaraos当作神信奉的就是Oropus人，后来全希腊的人都把他视若神明。保萨尼阿斯列举了一下其他被奉若神明的凡人：Protesilaos在Chersonese的Eleous，Trophonios在贝奥提亚城市Lebadeia，还有Amphiaraos在Oropos有一座神庙和白色大理石像。
 
 #### 34.3 Oropus
 祭坛分为几部分，一部分供奉赫拉克勒斯，宙斯和阿波罗治愈者（Παιών），另一部分则供奉英雄和他们的妻子，第三部分供奉赫斯提亚，赫尔墨斯，Amphiaraos以及Amphilochos的子孙。不过Alkmaion既不与Amphiaraos一起受到供奉，也不和Amphilochos一起，为的是他在Eriphyle做的那些事（Alkmaion是Amphiaraos和Eriphyle的儿子。Amphiaraos遇见了忒拜的灾难，但是他的妻子收受贿赂，骗他去那里履行职责；Alkmaion回家时杀了她。Amphilochos是Alkmaion的兄弟）。祭坛的第四个部分供奉阿弗洛狄特，Panakeia（Asklepios之女），伊阿宋和雅典娜治愈者。第五个献给诸宁芙和潘神，Achelous河神河Kephisus。雅典人在城里有一个供奉Amphilochos的祭坛，在西里西亚的Mallos有一处他的最值得信任的神谕所。
 
 #### 34.4 Oropus
-Oropos人在圣所附近有一个泉眼，被称为Amphairaos之泉。他们从不在那里献祭，也不用来做净化仪式的水或是拿来当圣水的原材料，不过每当有人的疾病通过神谕指引治好后，就会按照习俗把银币或是金币投入泉中，因为据说Amphiaraos就是这样擢升成神的。克诺索斯的Ophon把神谕编成了诗行，他说Amphiaraos预言了阿尔戈斯人向忒拜进军一事。他的诗歌对常人有着超乎寻常的吸引力，但事实上那些罹患阿波罗疯病的人以外，古代的占卜者没有一个是真正的先知，他们擅长释梦，判断鸟类飞行的痕迹，探测神圣的内脏。
+Oropos人在圣所附近有一个泉眼，被称为Amphiaraos之泉。他们从不在那里献祭，也不用来做净化仪式的水或是拿来当圣水的原材料，不过每当有人的疾病通过神谕指引治好后，就会按照习俗把银币或是金币投入泉中，因为据说Amphiaraos就是这样擢升成神的。克诺索斯的Ophon把神谕编成了诗行，他说Amphiaraos预言了阿尔戈斯人向忒拜进军一事。他的诗歌对常人有着超乎寻常的吸引力，但事实上那些罹患阿波罗疯病的人以外，古代的占卜者没有一个是真正的先知，他们擅长释梦，判断鸟类飞行的痕迹，探测神圣的内脏。
 
+#### 34.5 Oropus
+保萨尼阿斯认为Amphiaraos是出色的释梦者，显然也是因为当他被奉作神明时，下达的是梦境神谕。每个来询问Amphiaraos神谕的人都先要按规定仪式净化自己，当准备工作彻底完成时，他们要献祭一只羊羔，睡在它的羊毛上，等待梦境启示。
+
+#### 35.1 雅典诸岛
+雅典人在离陆地不远的地方有一些岛屿，像是保萨尼阿斯之前提过的Patroklos岛，还有一个在Sounion旁边，如果你从阿提卡半岛右侧航行的话。据说海伦在特洛伊陷落后从此登陆，所以这座岛也叫海伦岛（现在叫[Makronissos](https://maps.app.goo.gl/dmbhixsBZzXetL159)=长岛）。
+
+#### 35.2 Salamis
+Salamis的对面是厄留西斯，直至Megarid。最初是Kychreus以他母亲Salamis、Asopos之女命名此地s，后来特拉蒙和它的同伴从Aigina到此定居。据说Eurysakes之子Ajax之子Philaeus把这块地交到了雅典人手中，自己也成为了一名雅典人。许多年后，雅典人把Salamis人赶出家园，指责他们在对抗Kassander的战争中过分软弱，只想着向马其顿人投降。他们判处了Salamis的民选将军Aischetades死刑，并宣示永远铭记Salamis人的背叛。
+
+#### 35.3 Salamis
+Agora的废墟和埃阿斯的神龛都还在，他的雕像是用乌木做的。如今雅典人仍然崇拜埃阿斯和Eurysakes，后者在雅典有一座祭坛。Salamis人会向你展示港口附近的一块石头，据说当年特拉蒙就坐在那里，看着他的儿子们乘船前往Aulis，参加希腊人的远征。
+
+#### 35.4 Salamis
+住在Salamis的人说，当埃阿斯死时，有一种花首次出现在这片地区。这花有白里带着粉红的花瓣，相比百合花，花和叶子都小一些。花瓣上写着一些字母，就像风信子那样（不知道是什么花，按照描述最接近的还是风信子）。保萨尼阿斯说，他曾听一个生活在特洛伊的Aiolia人讲作为奖品的盔甲的故事：据说奥德修斯遭遇船难时，盔甲被冲到了埃阿斯的坟墓上。一个Mysia人则给保萨尼阿斯讲了一个关于埃阿斯体型的故事。
+
+#### 35.5 Salamis
+他说，海水磨平了面向海滩的坟墓，想要进入墓穴并不困难。他说可以用如下方法判断尸体的大小：埃阿斯的膝盖骨，也就是医学术语里的髌骨（希腊语μύλη=磨盘），有男孩五项全能赛里的铁饼那么大。保萨尼阿斯说，当他看到最偏远地区的凯尔特人、也就是生活在冰原边缘的卡巴人（Kabares）的雕像时，她并没有被他们的身形吓呆，因为他们就像埃及的死者那样。不过这件事我觉得很有趣。
+
+#### 35.6 Salamis
+Lethaeus河畔（Meander支流）Magnesia公民Protophanes在奥林匹克竞技会的同一天里接连获得了摔跤和全力格斗的冠军。盗墓者闯进了他的墓穴，想要拿点值钱的东西，在盗墓者离开后，有些人进去看了他的尸体。他的肋骨是连在一起的，从肩膀一直连着长到末端，医生称之为“杂种肋骨”（νόθος）。米利都斯城外有一座Lade岛，还有一些更小的岛是从这座岛上分出去的。其中有一座小岛被称之为Asterios岛，据说Asterios就埋葬于此。Asterios是Anax之子，Anax又是盖亚之子。那具尸体不低于15英尺长（10个πῆχυς）。

@@ -700,3 +700,18 @@ Lethaeus河畔（Meander支流）Magnesia公民Protophanes在奥林匹克竞技�
 
 #### 36.6 Kephisodoros的故事（II）
 但是由于埃及、Mysia、克里特的援军大多姗姗来迟，罗德人唯一的军力又在海上，与对抗马其顿无益，于是Kephisodoros和其他雅典人航行到意大利，祈求罗马人的援助。罗马人派出了一支军队和一位指挥官，把菲利普和马其顿人打得落花流水，以至于后来菲利普之子Perseus失去了他的王位，成为意大利的阶下囚。这个菲利普是Demetrios之子，Demetrios是他家族中首个登上马其顿王位的人，因为杀死了Kassander之子Alexander。
+
+#### 37.1 圣道
+Heliodoros Halis（不知此人是谁，Halis指的应该是“来自Halai”的意思）埋在Kephisodoros墓旁边。雅典娜的大神殿里有他的像。Poliarchos之子Themistokles，也就是在薛西斯时期与波斯人海战的Themistokles曾孙，也埋在这里。除了Leon之子Sophokles之子Xenokles之女Akestion，我不知道他的后代谱系。从曾祖父Leon开始，这些人都是火炬手（厄留西斯一个重要的祭祀职位），在她的生平，先是看到他的兄弟Sophokles拿火炬，然后是她丈夫Themistokles，然后丈夫死了以后是儿子Thephrastos。他们说她十分幸运。
+
+#### 37.2 圣道
+再往前走一点，就到了英雄Lakios的圣地，还有以他命名的小镇Lakiadai（大概在[这个位置](https://maps.app.goo.gl/csbTcDa2V6qcPALz5)）。这里有Tarentum的Nikokles（不知道是谁）的纪念碑，他是所有竖琴歌手中最著名的一位。这里还有一座Zephyros祭坛，德墨忒尔和科瑞的圣所，雅典娜和波塞冬也被供奉在此。据说Phytalos把德墨忒尔带回了他在这里的家，女神送给他无花果树作为奖励。Phytalos墓碑上的铭文证实了这一说法：
+> ἐνθάδ᾽ ἄναξ ἥρως Φύταλός ποτε δέξατο σεμνὴν
+>
+> Δήμητραν, ὅτε πρῶτον ὀπώρας καρπὸν ἔφηνεν,
+>
+> ἣν ἱερὰν συκῆν θνητῶν γένος ἐξονομάζει:
+>
+> ἐξ οὗ δὴ τιμὰς Φυτάλου γένος ἔσχεν ἀγήρως.
+
+（此处长眠着Phytalos，国王、英雄，接待了神圣的女神德墨忒尔，昭示秋天的最初果实：人们命名为神圣的无花果。Phytalos一族的荣耀永不褪色。）

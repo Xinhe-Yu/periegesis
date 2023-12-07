@@ -208,7 +208,7 @@ Mousaios（传说中的半神诗人）写过一首诗，说Triptolemos是Oceanos
 关于忒修斯的结局众说纷纭。一说他被关了起来，直到赫拉克勒斯把他救出才得以重见天日。不过我听过最可信的故事则是：忒修斯入侵了Thesprotia，想拐走当地国王的妻子，但他失去了他大部分的士兵，他本人和Peirithous——据说后者对这门婚事还相当热忱——都被俘虏了，关在了Kichyros。
 
 #### 17.5 Agora忒修斯圣所和忒修斯神话，Thesprotia（IV）
-Thesprotia最值得一看的就是[多多那宙斯圣所](https://maps.app.goo.gl/akmg88KLGrMxYDjs6)里的神圣橡树。在Kichyros附近有一个湖名叫Acherusia，还有一条河名为Acheron，以及一条恼人的溪流，叫Kokytos。保萨尼阿斯觉得荷马可能游览了这个地区，并在他的诗歌里为冥府的河流选了Thesprotia地区的名字。（保萨尼阿斯从来没有在这边旅游[“什么鬼地方！”]。多多那因荷马闻名[Il. 16.233]。1959年有考古挖掘）。忒修斯被俘期间，廷达瑞斯的子孙（指Dioskouroi，卡斯托尔和波吕丢克斯）来到并占领了[Aphidna](https://maps.app.goo.gl/fKMJc1gUB6UtK5qU6)（忒修斯囚禁海伦的地方），为Menestheus复辟了王位。
+Thesprotia最值得一看的就是[多多那宙斯圣所](https://maps.app.goo.gl/akmg88KLGrMxYDjs6)里的神圣橡树。在Kichyros附近有一个湖名叫Acherusia，还有一条河名为Acheron，以及一条恼人的溪流，叫Kokytos。保萨尼阿斯觉得荷马可能游览了这个地区，并在他的诗歌里为冥府的河流选了Thesprotia地区的名字。（保萨尼阿斯从来没有在这边旅游[“什么鬼地方！”]。多多那因荷马闻名[Il. 16. 233]。1959年有考古挖掘）。忒修斯被俘期间，廷达瑞斯的子孙（指Dioskouroi，卡斯托尔和波吕丢克斯）来到并占领了[Aphidna](https://maps.app.goo.gl/fKMJc1gUB6UtK5qU6)（忒修斯囚禁海伦的地方），为Menestheus复辟了王位。
 
 #### 17.6 Agora忒修斯圣所和忒修斯神话（V）
 Menestheus不管忒修斯的孩子们，他们偷偷溜去了优卑亚的Elephenor；但Menestheus知道，万一忒修斯从Thesprotia回来了，他将是一个强有力的对手；于是他专心治理，希望人民能在忒修斯回来的时候把他赶走。忒修斯去克里特找Deukalion（米诺斯之子），但是被风吹倒了Skyros。那边的人讲忒修斯的高贵先祖和他所做的光荣事迹，所以国王Lykomedes谋划要杀了他（把他推下了悬崖；在当地，忒修斯不是一个史诗英雄，而是民间传说）。在波斯人在马拉松战败后，Miltiades之子Cimon劫掠了Skyros，为忒修斯复仇，把他的骨头带回了雅典，在雅典为他建立了墓园（σηκὸς，未被发掘）。
@@ -715,3 +715,9 @@ Heliodoros Halis（不知此人是谁，Halis指的应该是“来自Halai”的
 > ἐξ οὗ δὴ τιμὰς Φυτάλου γένος ἔσχεν ἀγήρως.
 
 （此处长眠着Phytalos，国王、英雄，接待了神圣的女神德墨忒尔，昭示秋天的最初果实：人们命名为神圣的无花果。Phytalos一族的荣耀永不褪色。）
+
+#### 37.3 圣道
+渡过Kephisos河之前，有一个Theodoros的纪念碑，他是他那个时代最出色的悲剧演员。河边还有Mnesimache的雕像，还有一个男孩剪自己头发献给Kephisos河的供奉雕像。自古以来这就是希腊人的传统，荷马史诗（I. 23. 141）为证，佩琉斯向Spercheios发誓向它献上儿子的头发，如果阿基琉斯可以从特洛伊平安归来。
+
+#### 37.4 圣道
+Kephisos河对岸有一座宙斯μειλίχιος（安抚者）的祭坛。忒修斯在这里接受了Phytalos后代所施的净化仪式。此前他杀了一个名叫Sinis的强盗，Sinis和Pittheus有亲戚关系。Phaselis的Theodektes（亚里士多德的学生，亚历山大大帝的朋友）和Mnesitheos的坟墓在这里。据说Mnesitheos是个好医生，在此供奉了包括Iacchos在内的诸多雕像。路边有一个小圣所被称之为豆人（κυαμιτός）圣所。可能是献给第一个种植豆子的人，或者人们干脆这样命名这样一个英雄，因为豆子的种植无法追溯到德墨忒尔。保萨尼阿斯：了解厄留西斯密仪、知道俄耳甫斯传说的人都知道我在说什么。

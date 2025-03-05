@@ -77,7 +77,7 @@ Aktaios是目前公认的阿提卡第一位国王；他死了以后，女婿Kekr
 - *五百人议事厅* 在众神之母圣所不远处。有一个议会宙斯（Boulaios）的木雕像，Peisias（hapax，别处查无此人）的阿波罗像，Lyson（唯有归名于他的传世作品）的Demos；考诺斯的Protogenes（前四世纪下半叶画家，50岁前都专业画船）画的立法者像，Olbiades（hapax，不知是谁）画的Kallipos将军，后者在温泉关带领雅典人击退了试图入侵希腊的高卢（加拉特）人（-297，见本书10，19-23）
 
 #### 4.1 历史课，高卢人的入侵
-高卢人住在欧洲大陆的远方，靠近一片难以航行的大海；那里的海怪和别处的也不一样；河流Eridanos流过他们的国度，河岸边，赫利奥斯的女儿在那里哀悼她们兄弟法厄同德悲剧（据说她们是杨树，眼泪是琥珀）；他们被称为高卢人是很后来的事情，古早时期他们那边的人互称“凯尔特人”。他们集结军队后朝伊奥尼亚海（Ionian sea）而来，先是赶走了伊利里亚人（Illyrians），他们和马其顿人之间的人，最后是马其顿人，统治了帖萨利。当他们靠近[温泉关](https://maps.app.goo.gl/zLtqTQDmWruR6grB7)时，大部分希腊人都放弃了抵抗，因为他们曾被亚历山大和菲利普狠狠击败；后来又来了Antipater和Cassander，每个城邦都如此的虚弱，以至于他们不参与抵抗也毫不害臊（
+高卢人住在欧洲大陆的远方，靠近一片难以航行的大海；那里的海怪和别处的也不一样；河流Eridanos流过他们的国度，河岸边，赫利奥斯的女儿在那里哀悼她们兄弟法厄同的悲剧（据说她们是杨树，眼泪是琥珀）；他们被称为高卢人是很后来的事情，古早时期他们那边的人互称“凯尔特人”。他们集结军队后朝伊奥尼亚海（Ionian sea）而来，先是赶走了伊利里亚人（Illyrians），他们和马其顿人之间的人，最后是马其顿人，统治了帖萨利。当他们靠近[温泉关](https://maps.app.goo.gl/zLtqTQDmWruR6grB7)时，大部分希腊人都放弃了抵抗，因为他们曾被亚历山大和菲利普狠狠击败；后来又来了Antipater和Cassander，每个城邦都如此的虚弱，以至于他们不参与抵抗也毫不害臊（
 
 #### 4.2 历史课，高卢人的入侵（II）
 但是！雅典人不一样！虽然在漫长的马其顿战争中他们比其他城邦耗费更多，饱尝败仗，却派了一支Callipus一世领导的军队，编入一些其他愿意抵抗的希腊人，前往温泉关。占据了最狭窄的隘口，抗击试图进入希腊的异邦人。但是凯尔特人发现了当年Trachis的Ephialtes带波斯人抄的小路，击败了驻扎在那里的福基亚人，在希腊人不知情的情况下悄悄翻过了[Oite山](https://maps.app.goo.gl/cK8tAxmAxU1rZ3QZ7)。
@@ -147,7 +147,7 @@ Attalus和Ptolemy的时代要早一点。
 > ... 直到章I.10.5都是历史故事（Lysimachus of Macedonia），暂且略过，有空补上
 
 #### 11.1 Agora
-- *Pyrrhus雕塑* 大概和亚历山大只有点血缘关系；他是Arybbas之子Aeacides之子Pyrrhus，Alexander是Neoptolemus之女Olympias之子，Tharypus之子Alcetas是Neoptolemus和Aryblas之父。从Tharypus到阿基琉斯之子Pyrros之间隔了15代。特洛伊陷落后，Pyrros最初不想回到帖萨利，到达了Epiros并定居于此。这也是Helenos神谕的结果。他和Hermione没孩子，和安德洛马克生了Molossos，Pielos和Pergamos。他在德尔菲被杀时，安德洛玛克嫁给了Helenos，生了个孩子叫Kestrinos。
+- *Pyrrhus雕塑* 大概和亚历山大只有点血缘关系；他是Arybbas之子Aeacides之子Pyrrhus，Alexander是Neoptolemus之女Olympias之子，Tharypus之子Alcetas是Neoptolemus和Aryblas之父。从Tharypus到阿基琉斯之子Pyrros之间隔了15代。特洛伊陷落后，Pyrros最初不想回到帖萨利，到达了Epiros并定居于此。这也是Helenos神谕的结果。他和Hermione没孩子，和安提洛马克生了Molossos，Pielos和Pergamos。他在德尔菲被杀时，安提洛玛克嫁给了Helenos，生了个孩子叫Kestrinos。
 
 > ... 直到章I.13.9都是历史故事（Pyrros of Macedonia），暂且略过，有空补上
 
@@ -227,7 +227,7 @@ Menestheus不管忒修斯的孩子们，他们偷偷溜去了优卑亚的Elephen
 - ？ 离萨拉皮斯圣所不远的地方，是忒修斯和Peirithous一同前往斯巴达和Thesprotia前宣誓的地方
 
 #### 18.5 卫城北坡（？）
-- *生育女神（Εἰλειθυία）圣殿* （具体位置不明，大英有一个献给生育女神的[小铜像](https://www.britishmuseum.org/collection/object/G_1814-0704-1284)）据说她来自极北之地（传说中琥珀的产出地）来到德洛岛帮助经受产痛的勒托，于是人们给她生育女神（Eileithuia）之名。德洛人供奉她，为她唱Olen写的颂歌（神话中的诗人）。克里特人认为Eileithuia是赫拉的女儿，在克诺索斯旁的[Amnisos](https://maps.app.goo.gl/XgeFFE9SWmy95UecA)（当地有许多洞穴圣域）出生。只有在雅典，Eileithuia的木像的衣服一直垂到足部；妇女们告诉我其中两个来自克里特，是Phaidras的供品，而最老的一个则是Erysichthon从德洛带来的。
+- *生育女神（Εἰλειθυία）圣殿* （具体位置不明，大英有一个献给生育女神的[小铜像](https://www.britishmuseum.org/collection/object/G_1814-0704-1284)）据说她来自极北之地（传说中琥珀的产出地）来到提洛岛帮助经受产痛的勒托，于是人们给她生育女神（Eileithuia）之名。提洛人供奉她，为她唱Olen写的颂歌（神话中的诗人）。克里特人认为Eileithuia是赫拉的女儿，在克诺索斯旁的[Amnisos](https://maps.app.goo.gl/XgeFFE9SWmy95UecA)（当地有许多洞穴圣域）出生。只有在雅典，Eileithuia的木像的衣服一直垂到足部；妇女们告诉我其中两个来自克里特，是Phaidras的供品，而最老的一个则是Erysichthon从提洛带来的。
 
 #### 18.6 卫城东部
 - [*奥林匹亚宙斯的神庙*](https://maps.app.goo.gl/RUTLymrgz1w6wZBCA) 哈德良资助了神殿和雕塑的建造，其中有一个巨大的象牙和金制的雕塑尺寸非凡，仅仅比不过罗得岛和罗马的巨像；有两个塔索斯大理石的哈德良雕塑，还有两个用的是埃及石头。在立柱前（据说中世纪时期有一些隐士就住在这些柱子上，这里常被中世纪绘画雅典的画家取景。五世纪时有21根柱子，而十七世纪只剩17根了。建筑师是罗马人Cossutius；始建于Antiochos，在300年后哈德良时期竣工。苏拉Sulla偷了两根立柱，可能是用于罗马的Jupiter Capitolinus的陈设间[cella]；神庙风格对罗马的“科林斯式”也有很大的影响）有两个被雅典人成为“殖民者”（ἄποικος）的铜像
@@ -260,7 +260,7 @@ Menestheus不管忒修斯的孩子们，他们偷偷溜去了优卑亚的Elephen
 穿过雅典的河名为Ilissos（源自[Hymettos山](https://maps.app.goo.gl/ahF8NJ2FcT5E3TKW8)，在[Kaisariani修道院](https://maps.app.goo.gl/q3XLgRBXxfkrWS7H9)高处），它的支流和凯尔特地区的Eridanos河同名（雅典的Eridanos源自[Likavittos山](https://maps.app.goo.gl/b59XjwXHzmEoXUur5)的地下泉，见斯特拉波，9.1.19）。据说Orethuia被北风神（Βορέας）掠走的时候正是在这条Ilissos河边玩耍；因为这层姻亲关系，北风神帮助雅典人摧毁了蛮族人的战舰（见Hdt，8.189）；雅典人在Ilissos河畔也供奉其他神明，包括Ilissos的缪斯；据说也是在这里，伯罗奔尼撒人杀了Melanthus之子Kodrus，当时的雅典国王。
 
 #### 19.6 田野区
-- *阿尔特弥斯Agrotera（猎手）神庙*（未被确定定位） 位于跨过Ilisus是田野区（Ἄγραι）；据说从德洛岛来的阿尔特弥斯是首位在这边狩猎的人；所以她在这里的雕像中手握猎弓。
+- *阿尔特弥斯Agrotera（猎手）神庙*（未被确定定位） 位于跨过Ilisus是田野区（Ἄγραι）；据说从提洛岛来的阿尔特弥斯是首位在这边狩猎的人；所以她在这里的雕像中手握猎弓。
 
 - *白色大理石体育场* 听起来无趣却看起来令人惊叹。
 
@@ -498,7 +498,7 @@ Troizen人有一个关于忒修斯的传说是这样的：当赫拉克勒斯在T
 [Phreattys](https://maps.app.goo.gl/2LS6yrqJsf9fM47y7)这个街区临海，在Pireaus旁边。当被流放的人被指控新的罪行时，他们可以要求船只靠岸，向在陆地上听众演说。Teukros是第一个做这样形式演说的人，他对特拉蒙表示他与埃阿斯之死无关。保萨尼阿斯讲这些是为了给对审判特别感兴趣的人听。
 
 #### 29.1 雅典城区
-- *船* 在战神山旁边，为泛雅典人节游行队伍制作的船。这不是最大的船，保萨尼阿斯知道的最大的船是甲板上能容纳九层桨手的德洛岛战舰
+- *船* 在战神山旁边，为泛雅典人节游行队伍制作的船。这不是最大的船，保萨尼阿斯知道的最大的船是甲板上能容纳九层桨手的提洛岛战舰
 
 #### 29.2 雅典近郊
 雅典城外，乡间，道路两侧有很多诸神的圣所、英雄和凡人的坟墓。
@@ -581,8 +581,8 @@ Lukourgos为公共财富收集的钱比伯里克利还多了6500塔兰特。他�
 - *Dioskouroi信仰* 在[Kephale](https://maps.app.goo.gl/8XRnAJqbihsAs9r38)的人特别信卡斯托尔和波吕丢克斯
 
 #### 31.2 阿提卡乡间
-- *阿波罗圣所* 在[Prasiai](https://maps.app.goo.gl/T5qFdBSHc6BMFuRb8)。据说极北之人的把最初的水果带到了这里；极北之人把它给了Arimaspians，Arimaspians带到了Issedones；Issedones——斯基泰人带到了[Sinope](https://maps.app.goo.gl/8ebsAC46ricYX3qE9)，希腊人又给带到了Prasiai；后来雅典人又给带去了德洛岛。最初的果实被藏在小麦杆里，无人所知
-- *Eryschthon纪念碑* 把德洛岛的仪式带到了雅典；他死在海上
+- *阿波罗圣所* 在[Prasiai](https://maps.app.goo.gl/T5qFdBSHc6BMFuRb8)。据说极北之人的把最初的水果带到了这里；极北之人把它给了Arimaspians，Arimaspians带到了Issedones；Issedones——斯基泰人带到了[Sinope](https://maps.app.goo.gl/8ebsAC46ricYX3qE9)，希腊人又给带到了Prasiai；后来雅典人又给带去了提洛岛。最初的果实被藏在小麦杆里，无人所知
+- *Eryschthon纪念碑* 把提洛岛的仪式带到了雅典；他死在海上
 
 #### 31.3 阿提卡乡间
 - *Kranaos纪念碑* 保萨尼阿斯已经讲过Amphiktyon如何驱除了他的近亲Kranaos，昔日的雅典国王；据说他和他的同伴逃向了[Lamptrai](https://maps.app.goo.gl/91UvXNZuQXrLwmV28)，死并葬在了那里
@@ -737,4 +737,28 @@ Kephisos河对岸有一座宙斯μειλίχιος（安抚者）的祭坛。忒
 有许多条溪流名为Rheitoi，不过一点都不像河流，它们流着的是海水（流入道路右边的咸水湖。19世纪30年代，Dr K. G. Fiedler路过此地，说里面跃动着鲱鱼大小的鱼，比本地的海鱼好吃[*Reise*, I, p. 82]。只有附近营地的士兵被允许在这个湖里钓鱼）。有人相信它们源自Chalkis的Euripus，从地底下流过来的，汇入更低的海里。据说这些溪流是科瑞和德墨忒尔的圣河，只有两位女神的祭司被允许在其中捕鱼。我知道以前它们是厄留西斯和雅典的界河。
 
 #### 38.2
-最初在河对面定居的是Crocon，他住的地方在保萨尼阿斯的时代叫做Crocon宫。雅典人说这个Crocon和Celeus之女Saesara结婚了。不过只有Scambonidae区的人这么说。保萨尼阿斯没有找到Crocon的墓地，但是找到了厄留西斯人和雅典人一致认为是Eumolpus的墓。Eumolpus据说是从色雷斯来的，是波塞冬和Chione之子。据说Chione又是风神Boreas和Oreithyia之女。荷马没提到过Eumolpus的家族，不过在他的诗歌里用“很男”（ἀγήνωρ）来形容他。
+最初在河对面定居的是Crocon，他住的地方在保萨尼阿斯的时代叫做Crocon宫。雅典人说这个Crocon和Celeus之女Saesara结婚了。不过只有Scambonidae区的人这么说。保萨尼阿斯没有找到Crocon的墓地，但是找到了厄留西斯人和雅典人一致认为是Eumolpus的墓。Eumolpus据说是从色雷斯来的，是波塞冬和Chione之子。据说Chione又是风神Boreas和Oreithyia之女。荷马没提到过Eumolpus的家族，不过在他的诗歌里用“很男”（ἀγήνωρ）来形容他（德墨忒尔颂诗，1，154）。
+
+#### 38.3 厄留西斯
+厄留西斯人和雅典人打仗时，雅典人的国王Erechtheus和Eumolpos之子Immarados死了，和平条约如下：厄留西斯在各方面臣服于雅典，除了能独自管理崇拜仪式。Eumolpos和Keleus的女儿们为两位女神操持神圣的仪式；Pamphos和荷马用同样的名字称呼她们：Diogeneia，Pammerope和Saisara（与德墨忒尔颂诗109行提到的名字不同）。Eumolpos死的时候还有一个小儿子Herald。不过据Herald的后裔说，此公为赫尔墨斯和Kekrops之女Aglauros所生，与Eumolpos无关。
+
+#### 38.4 英雄神龛
+这里还有英雄Hippothoon的神龛，他的名字命名了雅典一个部族；旁边还有Zarex的神龛。据说他的音乐师从阿波罗，不过保萨尼阿斯觉得他不是本地人，是斯巴达人，因为斯巴达有一座海岸城市叫Zarax，应该是以他为名（见本书III，21，7）。保萨尼阿斯不知道有什么雅典英雄叫这个名字。
+
+#### 38.5 厄留西斯
+厄留西斯还有一条叫Kephisos的河，比上文（37，3）提到的河更湍急（从Kithairon而来，在厄留西斯附近才流出地面）。旁边有一个叫Erineus的地方，据说冥王抓住科瑞之后就是从那里下到地底的。在Kephisos旁，忒修斯杀了一个外号是Procrustes的强盗Polypemon。
+
+#### 38.6 厄留西斯
+厄留西斯有Triptolemus、阿尔特弥斯·入口大门（Προπυλαίας Ἀρτέμιδος）和波塞冬·父亲（Ποσειδῶνος Πατρός）的神庙，还有一口被称为好舞（Καλλίχορον）的井，因为最初厄留西斯妇女在那里歌唱赞颂女神。他们说那片被称作Rharium的平原是最初播种培育作物的地方，因此这里的习俗是用大麦粒做甜糕献祭。人们会给你展示Triptolemos的打谷场和祭坛。
+
+#### 38.7 厄留西斯
+保萨尼阿斯：我的梦不允许我记录圣所围墙内的谎言，因为未入教者不被允许知道他们显然不应该知道的东西（……）。为城市命名、神圣的英雄厄留西斯是赫尔摩斯和Okeanos之女Daeira的儿子，或者他爹也可能是Ogygos。没有诗传唱的传说更容易搞发明创造，尤其是在英雄的谱系方面。
+
+#### 38.8 Eleutherai
+如果你从厄留西斯朝贝奥提亚走，你会在普拉提亚穿过雅典的边界。阿提卡以前的边界是Eleutherai，但他们并进雅典之后，Cithaeron就成为了贝奥提亚的边界。让Eleutherae并入雅典并非源自武力征服，而是出于成为雅典公民的渴望，和对忒拜的憎恶。田野间有狄奥尼索斯的神龛，老旧的木头偶像来自雅典，保萨尼阿斯的时候已经是一个仿品了（狄奥尼索斯·Eleutherai在卫城南坡上也有一个神龛）。
+
+#### 38.9 Eleutherai
+稍微一些距离外，是一个小洞穴，旁边有一处冷泉（可能是Petrogeraki）。关于洞穴的传说是，安提俄珀在诞下孩子之后（双胞胎Zethos和Amphion，又是宙斯的孩子），把他们留在这里；牧羊人在泉水边找到了他们，剥开他们的襁褓，第一次给他们洗澡。Eleutherai到处都是房子和墙院的遗迹，在平原上朝着Cithaeron的肯定就是Eleutherai（在保萨尼阿斯的年代是废墟，后来在基督教时期有所复兴。）
+
+#### 39.1
+还有一条从厄留西斯通出去的道路，前往麦加拉。沿着路走你会来到一堵名为花墙（Ἄνθιον）的墙边。Pamphos在诗中描绘了在丢了女儿后，德墨忒尔以老妇人的面貌坐在这堵墙边上，因此Celeus的女儿们把她当作一位阿尔戈斯妇女，带到她们母亲面前，然后Metaneira如何信任她，把儿子托付给她照看。

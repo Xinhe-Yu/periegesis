@@ -7,7 +7,7 @@ Tithorea与德尔斐周围的福基斯地区显然在很久以前就因科林斯
 福基斯在德尔斐的港口Kirra临海，对面是伯罗奔尼撒，还在贝奥提亚一侧的[Antikyra](https://maps.app.goo.gl/QLzxCq5b5wEaajW2A)。靠近拉米亚湾一侧，由Hypoknemis的Locris人隔开福基斯与海岸。而在[Elateia](https://maps.app.goo.gl/bWNpouUd1sh9Gs8f9)另一侧，Skarphean人生活在边界地带；[Opous](https://en.wikipedia.org/wiki/Opus,_Greece)城则位于其后，在[Abae](https://en.wikipedia.org/wiki/Abae)与[Hyampolis](https://en.wikipedia.org/wiki/Hyampolis)之后可俯瞰该地区。
 
 #### 1.3 福基斯人的功绩和历史（I）
-福基斯人最著名的功绩属于整个福基斯地区：他们曾参与特洛伊战争，甚至在波斯入侵之前就已英勇抗敌，同色萨利爆发战争。在Hyampolis，他们预料到色萨利人将袭击他们的国家，于是将陶制的水罐埋在地下并覆以泥土，然后伏击等待色萨利骑兵的到来。色萨利人毫无察觉，骑马直接踏在水罐上（见希罗多德，8，28）。马匹跌落其中，摔断了腿，骑手也被掀翻坠地、被击杀。
+福基斯人最著名的功绩属于整个福基斯地区：他们曾参与特洛伊战争，甚至在波斯入侵之前就已英勇抗敌，同色萨利爆发战争。在Hyampolis，他们预料到色萨利人将袭击他们的城邦，于是将陶制的水罐埋在地下并覆以泥土，然后伏击等待色萨利骑兵的到来。色萨利人毫无察觉，骑马直接踏在水罐上（见希罗多德，8，28）。马匹跌落其中，摔断了腿，骑手也被掀翻坠地、被击杀。
 
 #### 1.4 福基斯和色萨利的战争（II）
 色萨利人因此愈加愤怒，遂集结整个色萨利城邦的军队入侵福基斯。福基斯人深感恐惧，尤其担忧敌方骑兵的数量与骑士和战马的训练状况，遂派人前往德尔斐请示神谕，寻求脱困之道。神谕答复说：
@@ -73,7 +73,7 @@ Phaylus去世后，福基斯的权力转移到他的儿子Phalaecus手中，但P
 福基斯人的这些事迹在保萨尼阿斯的时代仍然为人所记。从喀罗尼亚出发，向前20个stades（约4公里），便到达福基斯的[Panopeus城](https://maps.app.goo.gl/YHnHZ3nokboW14yXA)——如果还能称它为“城”的话：这里没有公共建筑、没有体育场、没有剧场，也没有集市广场；没有泉水水源，人们在一条急流边住在像山区茅舍一样的简陋屋子里。尽管如此，他们的领地与邻地之间仍立有界碑，并有代表参与福基斯联盟大会。他们说这座城市是以Epeius之父命名的，而居民并非福基斯人，而是逃离Orchomenus而来、投奔福基斯的Phlegyas人。
 
 #### 4.2
-从Panopeus的古代城墙来看，我推测这城周长约一英里。我记得荷马关于Tityos的诗句中提到：“Panopeus，舞场优美之地”；又在描述为帕特洛克罗斯尸体争斗的诗句中提及福基斯之王、Iphitus之子Schedius，说他就住在Panopeus，后被赫克托耳所杀（Odyssey，11。58；Iliad，2，520 & 17，306）。我想，这位国王选择Panopeus定居，可能是因为畏惧波奥提亚——这里是通往福基斯最便捷的通道之一，他以此地为要塞。
+从Panopeus的古代城墙来看，我推测这城周长约一英里。我记得荷马关于Tityos的诗句中提到：“Panopeus，舞场优美之地”；又在描述为帕特洛克罗斯尸体争斗的诗句中提及福基斯之王、Iphitus之子Schedius，说他就住在Panopeus，后被赫克托耳所杀（Odyssey，11。58；Iliad，2，520 & 17，306）。我想，这位国王选择Panopeus定居，可能是因为畏惧贝奥提亚——这里是通往福基斯最便捷的通道之一，他以此地为要塞。
 
 #### 4.3
 起初，我无法理解荷马为何称Panopeus为“舞场优美”，直到遇见雅典人所谓的“狄俄尼索斯女祭群”（Thyiades）后才明白。她们是雅典妇女，每年与德尔斐女子一起上帕耳那索斯山，举行狄俄尼索斯的神秘仪式。按照传统，这些女祭在从雅典前往神山途中会进行跳舞，而其中一个跳舞之地正是Panopeus。因此，荷马之称似乎源于她们的舞蹈。
@@ -173,7 +173,7 @@ Daulis境内有个地区叫Tronis，这里有一座供奉神祇英雄的圣所�
 后来，人们称这座城市为“德尔斐”，也称“皮托”（Pytho），如荷马在其福基斯人名录中所写。有些人力图将一切解释为家谱衍生，便说皮托斯是Delphus之子，而城市名称源自他为王时的统治。不过最流行的说法是：阿波罗射杀的那头怪物死于伤口腐烂，因此城市得名“皮托”（当时pythesthai词意为“腐烂”）。这也解释了荷马为何称塞壬之岛布满尸骨，因为听其歌者会精神腐烂（ἐπύθοντο）。
 
 #### 6.6
-诗人们说，阿波罗所杀的，是大地之神派来守护神谕的巨蛇。另一种说法是，优卑亚领主Crios之子为人傲慢，抢劫神庙及富人宅邸。第二次劫掠时，德尔斐人向阿波罗求援。
+诗人们说，阿波罗所杀的，是大地之神派来守护神谕的巨蟒。另一种说法是，优卑亚领主Crios之子为人傲慢，抢劫神庙及富人宅邸。第二次劫掠时，德尔斐人向阿波罗求援。
 
 #### 6.7
 当时的女祭司以六音步诗回应：
@@ -248,3 +248,70 @@ Locris人两支（一支为Ozolia人，另一支为位于优卑亚对岸的支�
 
 #### 9.1
 德尔斐城为陡峭斜坡所构，阿波罗圣所亦然。它地势居高，规模宏大，内部为错综小道所穿插。我将记述我认为最值得一提的献礼。
+
+#### 9.2
+关于无名选手或无足轻重的音乐家我不打算多说，我已在讲述埃利斯的部分中提及那些留名后世的运动员（卷6）。克罗同的Phaylus在德尔斐有雕像。他虽未在奥林匹亚赛中得胜，却曾两度在此赢得五项全能赛冠军，一次短跑冠军。他还曾在对波斯的海战中作战，自备船只，并召集旅居希腊的克罗同人担任船员。
+
+#### 9.3
+进入圣域后，首先可见一尊青铜公牛，由Aegina岛的Theopropus所作，Corcyra岛人奉献。据传，曾有一头公牛脱离牧群，奔至海边哀鸣，此情景日复一日。牧人下到海边察看，发现海中有大量金枪鱼。
+
+#### 9.4
+他告知Corcyra人，但众人无论如何也难以捕获，于是前往德尔斐求问神谕。结果他们向波塞冬宰杀那头公牛献祭，紧接着便顺利捕获海鱼。奥林匹亚与德尔斐的这些奉献，便是所得渔获的什一贡品。
+
+#### 9.5
+接着是帖该亚人奉献的攻打斯巴达所得战利品，向阿波罗、胜利女神及本地英雄像——如Lycaon之女Callisto、为阿卡迪亚命名的Arcas，其子Elatus，Apheidas与Azan，以及Triphylus（其母不是Erato而是斯巴达王Amyclas之女Laodameia）。还有一尊雕像献给Erasus，Triphylus之子。
+
+#### 9.6
+人们还为如下人物作像：阿波罗与Callisto由阿波罗尼亚的保萨尼阿斯所作；胜利女神与Arcas像由Sicyon的Daedalus雕刻；阿卡迪亚的Samolas则制作了Triphylus与Azan像；阿尔戈斯的Antiphanes雕刻了Elatus、Apheidas与Erasus。这些像是帖该亚人在俘虏了攻占其城市的斯巴达人后送往德尔斐。
+
+#### 9.7
+这些供奉品对面的则是斯巴达人从雅典人那里掠夺来的战利品：迪奥斯库里兄弟、宙斯、阿波罗、阿尔忒弥斯，旁边还有波塞冬，波塞冬为Aristocritus之子Lysander加冕，在Lysander胜利时为其占卜的Agias，还有Lysander旗舰船长Hermon。
+
+#### 9.8
+Hermon由麦加拉的Theocosmus雕刻——因为Hermon是麦加拉的荣誉公民。狄俄斯库里由阿尔戈斯的Antiphanes雕刻；占卜师像出自Troezen领地内[Calaureia](https://maps.app.goo.gl/mwFUf9qY4sNQn2x78)（Poros岛）的Pison之手；阿尔忒弥斯，波塞冬与Lysander由Dameas所作；阿波罗和宙斯的作者是Athenodorus。后两位艺术家都是来自[Cleitor](https://maps.app.goo.gl/ZgEmdFkQieLextCF7)的阿卡迪亚人。
+
+#### 9.9
+在上述雕像后面，有帮助在[Aegospotami](https://en.wikipedia.org/wiki/Battle_of_Aegospotami)帮助Lysander的斯巴达人及其盟友雕像，包括：斯巴达的Aracus与贝奥提亚的Erianthes……弥马斯上方的有，Astycrates，开俄斯的Hermophantus和Hicesius；罗得岛的Timarchus和Diagoras；克尼多斯的Theodamus、以弗所的Cimmerius、米利都的Aeantides。
+
+#### 9.10
+这些出自Tisander之手。接下来的由Sicyon的Alypus所作：Myndos的Theopompus、萨摩斯的Cleomedes；优卑亚岛的Carystus的Aristocles和Eretria的Autonomus；科林斯的Aristophantus、Troezen的Apollodorus、阿尔戈利斯的Epidaurus的Dion。随后是来自Pellene的亚该亚人Axionicus、Hermion的Theares、福基斯的Pyrrhias与麦加拉的Comon；Sicyon的Agasimenes，以及来自Leucadia的Telycrates，科林斯的Pythodotus，Ambracia的Euantidas；最后是斯巴达的Epicydidas和Eteonicus。据说这些雕塑由Patrocles和Canachus所作。
+
+#### 9.11
+雅典人认为他们在Aegospotami的失败不公平，认为将军Tydeus和Adeimantus收了Lysander的贿赂而出卖城邦。雅典人引用西比尔的预言证明此说：
+
+“那时宙斯在天之至高权威
+将把哀嚎与悲苦降临雅典：
+战争、杀伐，战船将因奸诈之将而覆灭。”
+
+又引Musaeus的预言：
+
+“雅典将遭暴雨般的灾祸：
+有恶将，唯有慰藉：
+此城将永不沉睡，将得复仇。”
+
+#### 9.12
+这便是有关此事的记载。西比尔亦预言，斯巴达与阿尔戈斯在Thyrea之战将势均力敌，但阿尔戈斯人声称自己胜出，并将一匹青铜马献于德尔斐，象征特洛伊的木马，据说由阿尔戈斯的Antiphanes雕刻。
+
+#### 10.1
+木马之下的平台上有铭文说明：这些雕像是马拉松战役战利品的什一奉献。其中包括雅典娜、阿波罗和将军Miltiades，以及若干英雄，如Erechtheus、Kekrops和Pandion、Leos与Antiochus（赫拉克勒斯与Phylas之女Meda所生的儿子），还有Aegeus和Acamas（忒修斯之子）。这些英雄的名字后来通过德尔斐神谕成为雅典部族的命名来源。此外还有Melanthus之子Codrus、忒修斯和Neleus，但他们尚未成为部族的名祖英雄。
+
+#### 10.2
+这些雕像皆出自菲狄亚斯之手，确为马拉松战利品的什一奉献。但后来又将Antigonus和Demetrius父子以及埃及的托勒密送至德尔斐——埃及人是出于善意，而马其顿人则是出于惧怕。
+
+#### 10.3
+木马附近还有阿尔戈斯人奉献的其他雕像：这些是Polyneikes率军攻打忒拜时的将领，包括Talaus之子Adrastus、Oeneus之子Tydeus、Proetus的后裔、Hipponous之子Capaneus，Iphis之子Eteoclus，Polyneikes，Adrastus的侄子Hippomedon。Amphiaraus的战车也在附近，其御者兼亲族Baton也站在里面。最后一个是Alitherises。
+
+#### 10.4
+这些雕像出自Hypatodorus与Aristogeiton之手，阿尔戈斯人声称这些是他们与雅典人联手在阿尔戈斯的Oenoe伊击败斯巴达后的战利品。我推测阿尔戈斯人也用这些战利品奉献了“继任者”（Epigoni）的像，包括Sthenelus、Alcmaeon（或许因年纪原因取代Amphilochus）、Promachus、Thersander、Aegialeus和Diomedes。在Diomedes与Aegialeus之间的是Euryalus。
+
+#### 10.5
+这些雕像对面是其他雕像，由在Epaminondas指挥下与忒拜人一起建立Messene的阿尔戈斯人所奉献。雕像都是英雄：阿尔戈斯最强之王达那俄斯、在姊妹之中唯一没有杀死丈夫的Hypermnestra。她身旁是丈夫Lynceus，其后是一系列后代，直至赫拉克勒斯和珀尔修斯。
+
+#### 10.6
+来自塔伦托的青铜战马和女俘虏雕像，是从与其野蛮邻居Messapia人（一个非希腊民族，与塔兰托的领地接壤）作战获胜后所得战利品，由阿尔戈斯的Ageladas雕刻。塔伦托原是斯巴达殖民地，由Phalanthus建立。当时Phalanthus正率众出海殖民，德尔斐神谕告诉他：“当你在晴空之下感到雨水时，你便会得到你的国家与城邦。”
+
+#### 10.7
+起初他既未理解此神谕，也未求问释卜者，只是率舰直往意大利。然而他虽击败了当地的蛮族，却无法真正建城或定都。就在绝望之际，他回想起神谕，却以为神是在开玩笑，因为“晴空落雨”几乎不可能。他深感沮丧。他的妻子跟随他一同远行，此时正将他的头枕于膝上，一边为他捉虱子，一边因丈夫计划落空而垂泪。
+
+#### 10.8
+泪水滴落在Phalanthus头上，他忽然理解了神谕——因为他妻子名为艾特拉（意为“晴空”）。于是他立刻于翌夜攻占塔伦托，这座蛮族海岸上最大、最富庶的城市。传说Taras是波塞冬与本地一位仙女所生的儿子，城与河皆因其得名——城市与河流同名。

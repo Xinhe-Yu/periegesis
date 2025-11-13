@@ -112,7 +112,7 @@ Daulis境内有个地区叫Tronis，这里有一座供奉神祇英雄的圣所�
 分岔口是俄狄浦斯受诅之始。拉Ios和他的仆人埋葬于三路交汇处的石冢之下，普拉提亚王Damasistratus发现其尸体并予以掩埋（此人仅见诸于保萨尼阿斯和阿波罗多洛斯[3，5，8]）。
 
 #### 5.5 德尔斐，神话历史（I）
-从此继续前往德尔斐的道路愈发陡峭，即使是身手敏捷之人也倍感艰难。关于德尔斐与阿波罗神谕，有许多不同传说：最古老的说法是神谕起初属于大地之神该亚，其女祭司名为达芙妮，为山中仙女之一。
+从此继续前往德尔斐的道路愈发陡峭，即使是身手敏捷之人也倍感艰难。关于德尔斐与阿波罗神谕，有许多不同传说：最古老的说法是神谕起初属于大地之神该亚，其女祭司名为达芙妮，为山中宁芙之一。
 
 #### 5.6 德尔斐，神话历史（II）
 《Eumolpia》一诗（传为Antiophemos之子Mousaios所作）记载，神谕最早由该亚与波塞冬共享：该亚自行预言，而波塞冬则派仆人皮尔孔（Pyrkon）与其共同传达神意。诗中写道：
@@ -228,7 +228,7 @@ Daulis境内有个地区叫Tronis，这里有一座供奉神祇英雄的圣所�
 Locris人两支（一支为Ozolia人，另一支为位于优卑亚对岸的支系）各一人；优卑亚岛一人；来自伯罗奔尼撒的阿尔戈斯、Sicyon与科林斯-麦加拉共有一名代表；雅典亦派一人。在每次集会中，Nicopolis均会派出代表，而上述诸邦按轮换制派人出席。
 
 #### 8.6 德尔斐
-进入德尔斐城后，有一系列神庙。第一座已成废墟，第二座空无神像与祭品，第三座仅存几尊罗马帝王像，第四座名为“先见雅典娜神庙”（Ἀθηνᾶς Προνοίας，即Athena Pronoia，保萨尼阿斯没有提到女神的旧神庙，即希罗多德8，39，2描述的）。神庙外的大雕像由马赛里亚城所献，体量甚至超过殿内之像。马赛里亚为爱奥尼亚的福基斯人殖民地，由逃避波斯将军Harpagus的福基斯人所建。马赛里亚人在一场海战中击败迦太基人，获得现今疆域，并迅速繁荣起来（但实际上马赛里亚在希波战争很久前就建立了，见修昔底德1，13）。
+进入德尔斐城后，有一系列神庙。第一座已成废墟，第二座空无神像与祭品，第三座仅存几尊罗马帝王像，第四座名为“先见雅典娜神庙”（Ἀθηνᾶς Προνοίας，即雅典娜 Pronoia，保萨尼阿斯没有提到女神的旧神庙，即希罗多德8，39，2描述的）。神庙外的大雕像由马赛里亚城所献，体量甚至超过殿内之像。马赛里亚为爱奥尼亚的福基斯人殖民地，由逃避波斯将军Harpagus的福基斯人所建。马赛里亚人在一场海战中击败迦太基人，获得现今疆域，并迅速繁荣起来（但实际上马赛里亚在希波战争很久前就建立了，见修昔底德1，13）。
 
 #### 8.7
 他们的奉献品为青铜雕像。但传说吕底亚王克罗伊索斯曾献给“先见雅典娜”的金盾（见希罗多德1，92），被德尔斐人指称是Philomelus偷走的。在“先见神庙”旁，有一片奉献给神圣英雄Phylakos的神圣围地。德尔斐人传说他曾在波斯入侵期间为德尔斐作战。
@@ -274,7 +274,7 @@ Hermon由麦加拉的Theocosmus雕刻——因为Hermon是麦加拉的荣誉公�
 在上述雕像后面，有帮助在[Aegospotami](https://en.wikipedia.org/wiki/Battle_of_Aegospotami)帮助Lysander的斯巴达人及其盟友雕像，包括：斯巴达的Aracus与贝奥提亚的Erianthes……弥马斯上方的有，Astycrates，开俄斯的Hermophantus和Hicesius；罗得岛的Timarchus和Diagoras；克尼多斯的Theodamus、以弗所的Cimmerius、米利都的Aeantides。
 
 #### 9.10
-这些出自Tisander之手。接下来的由Sicyon的Alypus所作：Myndos的Theopompus、萨摩斯的Cleomedes；优卑亚岛的Carystus的Aristocles和Eretria的Autonomus；科林斯的Aristophantus、Troezen的Apollodorus、阿尔戈利斯的Epidaurus的Dion。随后是来自Pellene的亚该亚人Axionicus、Hermion的Theares、福基斯的Pyrrhias与麦加拉的Comon；Sicyon的Agasimenes，以及来自Leucadia的Telycrates，科林斯的Pythodotus，Ambracia的Euantidas；最后是斯巴达的Epicydidas和Eteonicus。据说这些雕塑由Patrocles和Canachus所作。
+这些出自Tisander之手。接下来的由Sicyon的Alypus所作：Myndos的Theopompus、萨摩斯的Cleomedes；优卑亚岛的Carystus的Aristocles和Eretria的Autonomus；科林斯的Aristophantus、Troezen的阿波罗dorus、阿尔戈利斯的Epidaurus的Dion。随后是来自Pellene的亚该亚人Axionicus、Hermion的Theares、福基斯的Pyrrhias与麦加拉的Comon；Sicyon的Agasimenes，以及来自Leucadia的Telycrates，科林斯的Pythodotus，Ambracia的Euantidas；最后是斯巴达的Epicydidas和Eteonicus。据说这些雕塑由Patrocles和Canachus所作。
 
 #### 9.11
 雅典人认为他们在Aegospotami的失败不公平，认为将军Tydeus和Adeimantus收了Lysander的贿赂而出卖城邦。雅典人引用西比尔的预言证明此说：
@@ -314,7 +314,7 @@ Hermon由麦加拉的Theocosmus雕刻——因为Hermon是麦加拉的荣誉公�
 起初他既未理解此神谕，也未求问释卜者，只是率舰直往意大利。然而他虽击败了当地的蛮族，却无法真正建城或定都。就在绝望之际，他回想起神谕，却以为神是在开玩笑，因为“晴空落雨”几乎不可能。他深感沮丧。他的妻子跟随他一同远行，此时正将他的头枕于膝上，一边为他捉虱子，一边因丈夫计划落空而垂泪。
 
 #### 10.8
-泪水滴落在Phalanthus头上，他忽然理解了神谕——因为他妻子名为埃特拉（意为“晴空”）。于是他立刻于翌夜攻占塔伦托，这座蛮族海岸上最大、最富庶的城市。传说Taras是波塞冬与本地一位仙女所生的儿子，城与河皆因其得名——城市与河流同名。
+泪水滴落在Phalanthus头上，他忽然理解了神谕——因为他妻子名为埃特拉（意为“晴空”）。于是他立刻于翌夜攻占塔伦托，这座蛮族海岸上最大、最富庶的城市。传说Taras是波塞冬与本地一位宁芙所生的儿子，城与河皆因其得名——城市与河流同名。
 
 #### 11.1
 塔伦托献礼旁是Sicyon的宝库（Treasure-house），不过你在这里和其他宝库中都看不到黄金。克尼多斯人献了雕像至德尔斐，包括站在马边的克尼多斯的建立者Triopas，勒托、阿波罗和阿尔特弥斯用箭射杀负伤的Tityos。
@@ -345,7 +345,7 @@ Lipara人也献了雕像，在他们与伊特鲁里亚人的海战中取胜之�
 
 我诞生于凡人与女神之间，
 
-屠戮海兽的不死仙女，
+屠戮海兽的不死宁芙，
 
 由母亲孕育于伊达山巅，
 
@@ -828,7 +828,7 @@ Lescheos说，特洛伊陷落时，埃特拉逃到希腊军营。忒修斯的孩
 在埃特拉和涅斯托尔之间的妇女上方是其他的女俘虏，包括Clymene，Creusa，Aristomache和Xenodice。Stesichorus在其《特洛伊陷落》中将Clymene列入俘虏之中，正如他在《归乡》中说Aristomache是普里阿摩斯的女儿，Hicetaon之子Critolaus的妻子。但是我从来没听说过任何诗人或是散文家提到过Xenodice。至于Creusa，人们说阿芙洛狄忒和众神之母拯救她免于成为希腊人的奴隶，因为她是埃涅阿斯的妻子。但是Lescheos和《塞浦路斯之歌》的作者认为埃涅阿斯的妻子叫Eurydice。
 
 #### 26.2
-在她们之上，Deinome、Metioche、Peisis和Cleodice被画在一处泉水旁。在她们之中，Deinome的名字是唯一出现在《小伊利亚特》中的，我认为Polygnotos编造了其他人的名字。Epeius赤裸着身体，正在拆毁特洛伊城墙的地基。木马的头部显现在他上方。Peirithous之子Polypoetes系着头带，忒修斯之子Amacas戴着有冠的头盔站在他旁边。
+在她们之上，Deinome、Metioche、Pe伊西斯和Cleodice被画在一处泉水旁。在她们之中，Deinome的名字是唯一出现在《小伊利亚特》中的，我认为Polygnotos编造了其他人的名字。Epeius赤裸着身体，正在拆毁特洛伊城墙的地基。木马的头部显现在他上方。Peirithous之子Polypoetes系着头带，忒修斯之子Amacas戴着有冠的头盔站在他旁边。
 
 #### 26.3
 奥德修斯在那里[……]穿着胸甲；Oileus之子埃阿斯站在祭坛旁，手持盾牌，就他对卡珊德拉的暴行起誓，卡珊德拉坐在地上抱着雅典娜的雕像；她一定是当埃阿斯把她从圣所拖走时，从基座上拉下了这个木制偶像。画中也有戴着头盔的阿特柔斯的儿子们；墨涅拉俄斯有一面画着蛇的盾牌，暗指在Aulis祭祀时的征兆。
@@ -963,3 +963,46 @@ Promedon倚在同一棵柳树的另一侧。有些人认为Polygnotos在此诗�
 
 #### 30.9
 在他上方的岩石上坐着Marsyas，旁边是少年Olympos，神态俊美，正学着吹笛。Kelainai的弗里吉亚人声称，流经他们城市的那条河是这位吹笛者的化身，他们还说Marsyas是“母神之笛曲”的发明者。他们甚至宣称，正是Marsyas借助河水与笛音的力量帮助他们击退了高卢军队。
+
+#### 31.1
+如果你再往画的上方看，在Aktaion旁边，是萨拉米斯的埃阿斯，而Palamedes与Thersites正在掷骰子——这项游戏正是Palamedes发明的。另一位埃阿斯正在旁边观看，他的肤色如同刚遭遇海难之人，皮肤上还留着盐的痕迹。
+
+#### 31.2
+Polygnotos特意将奥德修斯的敌人们放在了一起。Oileus之子埃阿斯记恨奥德修斯，因为后者让希腊人为埃阿斯对卡珊德拉的暴行对他处以石刑。据我从《塞浦路斯之歌》所知，Palamedes在捕鱼时溺亡，凶手是Diomedes与奥德修斯。
+
+#### 31.3
+Oeneus之子Meleager画在比Oileus之子埃阿斯更高的位置，似乎正在注视着后者。除Palamedes外，他们都有胡须。关于Meleager的死，荷马写道，是因为复仇女神听到了他母亲Althaia的诅咒，而《Eoiai》和《Minyas之歌》则一致认为，在阿波罗帮助Kouretes对抗埃托利亚人时，Meleager为阿波罗所杀。
+
+#### 31.4
+至于那段著名的传说——命运女神将一根木柴交给Althaia，只有当这根柴被烧尽时，Meleager才会死，后来她又如何在愤怒中将其焚烧——这个故事最早由Polyphradmon之子Phrynichos在其悲剧《[Pleuron](https://maps.app.goo.gl/VchuYc6uyj3S961K9)妇女》中演出：
+
+> 他无法逃脱那寒冷的命运：
+> 炽烈的火焰吞噬了他，化为灰烬，
+> 而那无情母亲的仇恨，
+> 也将木柴尽数吞噬。
+
+Phrynichos并未像编造新故事那样细加铺陈，而只是点到为止，因为这故事早已在全希腊流传。
+
+#### 31.5
+在画的下方，在色雷斯人Thamyris身后坐着Hektor，他双手环抱左膝，满是悲伤；再往后坐着Memnon，靠在一块岩石上，与他相伴的是Sarpedon。Sarpedon以双手托着面颊，而Memnon的一只手放在Sarpedon的肩上。
+
+#### 31.6
+他们都有胡须，Memnon的斗篷上绣有鸟纹，那些鸟被称为Memnonides。Hellespont的人说，每年特定的日子里，这些鸟会带着湿润的翅膀飞到Memnon的墓前，在没有树木与青草覆盖的坟丘处，用[Aisepos](https://maps.app.goo.gl/JdH7EtNTdvmBv6m16)河的水轻洒其上。
+
+#### 31.7
+Memnon身旁画着一名裸体的埃塞俄比亚少年，因为Memnon是埃塞俄比亚人的国王，虽然他来到特洛伊并非从埃塞俄比亚出发，而是从波斯的苏萨与[Choaspes](https://maps.app.goo.gl/XbmGuMf5ZMzTSeon6)河出发，在途中征服了所有部族。弗里吉亚人仍能指出他当年行军的路线，是一条的捷径，被驻扎地分割。
+
+#### 31.8
+在Sarpedon与Memnon上方，是尚未留须的Paris，他双手拍掌，像乡野的农夫一般，你会以为他是在用拍掌的声响呼唤Penthesileia。Penthesileia也在画中，正注视着Paris，但她微微倾斜的头部表情透露出轻蔑与不屑。她被描绘成一位未婚少女，持着一张像是斯基泰人的弓，肩披豹皮。
+
+#### 31.9
+在Penthesileia上方的两名女子，正提着破裂的水罐取水：其中一位依然美貌，另一位则年长。她们没有各自的铭文，而共用一句题辞——“未受秘仪启蒙的女子”。
+
+#### 31.10
+在她们上方的是Lykaon的女儿Kallisto、Nomia以及Neleus的女儿Pero。Neleus曾以Iphiklos的牛群作为娶Pero的聘礼。Kallisto坐在熊皮上，双脚搁在Nomia的腿上。我之前已解释过，阿卡迪亚人相信Nomia是他们地方的山林宁芙。诗人们说，宁芙的寿命极为漫长，但并非真正不死。在Kallisto及其同伴之后，是一处峭壁，Aiolos之子Sisyphos正奋力将巨石推上山顶。
+
+#### 31.11
+画中还出现一个大陶罐、一名老者、一名少年与几位女子——一位年轻女子在岩石下，一位老妇站在老者旁。大多数人都在取水，但老妇的水罐已破，剩余的水正倒回那只大陶罐中。我推测这些人同样轻视厄留西斯的秘仪。古时的希腊人认为厄留西斯人的神秘祭礼是最神圣的虔敬形式，远超其他一切信仰，正如他们尊神高于英雄一般。
+
+#### 31.12
+在那只大陶罐之下，是Tantalos，正如荷马所写的那样受苦；此外，他还因悬在头顶的巨石而心生恐惧。显然，Polygnotos依据的是Archilochos的版本；至于Archilochos是从他人那里借来此石的说法，还是他本人创作加入的，我尚不确定。这就是来自塔索斯的那位画家所作壁画的规模与非凡之美。

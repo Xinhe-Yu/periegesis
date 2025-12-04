@@ -106,3 +106,27 @@ Acrocorinth是城市上方的山顶；在Briareos的裁判中分给了赫利俄�
 
 #### 4.7
 更上方是众神之母的神龛，以及一个石块与王座。命运女神摩伊赖与德墨忒尔和科瑞的神庙中有不对外展示的雕像。此处还有Hera·Βουναίας（山丘）的神庙，以赫尔墨斯之子Bounas之名而得。
+
+#### 5.1
+在Acrocorinth顶端的是阿芙洛狄特神庙。殿中供奉的雕像是披甲的阿芙洛狄特、赫利俄斯，以及手持弓的Eros。他们说，神庙后的泉水是Asopos送给西西弗斯的礼物；西西弗斯知道是宙斯夺走了Asopos的女儿Aigina，但当Asopos询问时，他拒绝回答，除非能在Acrocorinth上得到水源。Asopos付出了这笔代价，西西弗斯于是把真相告诉了他；而据说，他在冥府为自己的告密付出代价。我听说这泉水就是Peirene，而城中的水自此流下。
+
+#### 5.2
+但Asopos源自[Phliasia](https://maps.app.goo.gl/nyX5H1sH6FWSKLWf9)，流经Sikyonia，并在那里入海。Phliasians说Asopos的女儿是Korkyra、Aigina与Thebe；Scheria与Oinone二岛从Korkyra与Aigina得到了新名，而Kadmeia山下的那座城则由Thebe得名。忒拜人不认同，他们声称Thebe是贝奥提亚人Asopos之女，而非Phliasia的Asopos之女。
+
+#### 5.3
+除此之外，Phliasians与Sikyonians都说这水并非本地水源，而是外来的：他们主张Maiander自Kelainai发源，经Phrygia与Caria流向Miletos入海，然后来到伯罗奔尼撒，汇成Asopos。我在提洛岛也听过一个类似的故事，说他们称为Inopos的水是从尼罗河来的。还有一种说法是：尼罗河本身其实就是幼发拉底河，它在一片沼泽中消失，又在埃塞俄比亚领土之外重新涌出，成为尼罗河。
+
+#### 5.4
+我听到的关于Asopos的传说大抵如此。从Acrocorinth向山中转去，会来到Tenean门以及一座Eileithuia的神庙；[Tenea](https://maps.app.goo.gl/jSc5vGh88Y3QdsNW6)距此约60个stades。当地人自称是从[Tenedos](https://maps.app.goo.gl/Wk83VKjcFQCiSWFX7)被希腊人俘来、由阿伽门农赐地安置的特洛伊人；因此他们最尊崇的神是阿波罗。
+
+#### 5.5
+从科林斯出发，若不向内陆而是朝Sikyon方向走，在城外不远、道路左侧可以看到一座被烧毁的神庙。科林斯领土引发的战争不止一场，在城墙之外有许多民居与圣所都被火焰吞噬；但他们说这原是阿波罗的神庙，被Achilles之子Pyrros放火焚毁。后来我又听到另一种说法，说科林斯人把这神庙奉献给奥林匹亚的宙斯，而一场突如其来的大火从不知何处降下，将其烧成灰烬。
+
+#### 5.6
+与科林斯为邻的Sikyonians这样讲述他们这片土地的故事：Aigialeus是这里最早的土著，在他之前无人居住；伯罗奔尼撒里至今仍被称为Aigialos（即阿凯亚）的那一片地区，便是以Aigialeus之名命名的，这位国王首先在平原上建立了城市Aigialeia，而如今雅典娜的圣所所在之处便是当时的卫城。Aigialeus是Apis的曾祖父；在Pelops抵达奥林匹亚之前，Apis的权势已然强大到使整个地峡以内的地域都以他的名字Apia相称。
+
+#### 5.7
+他的玄孙是Leukippos，没有儿子，只有一个名为Kalchinia的女儿。相传波塞冬与她结合，Leukippos抚养她所生的儿子，并把王位遗赠给他。这个男孩名叫Peratos。
+
+#### 5.8
+关于Peratos之子Plemnaios，有一件事让我惊奇不已：他妻子所生的所有孩子从第一声啼哭起便断气身亡，直到德墨忒尔怜悯Plemnaios，以外乡女子的模样来到Aigialeia，亲自抚养他的儿子Orthopolis。Orthopolis的女儿是Chrysorthe，据说她为阿波罗生下了一个名为Koronos的孩子。Koronos是Korax的父亲，而Lamedon是其弟。

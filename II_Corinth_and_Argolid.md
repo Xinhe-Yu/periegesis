@@ -1,7 +1,7 @@
 # 卷II. 科林斯和阿尔戈利斯
 
 #### 1.1
-科林斯的领土是阿尔戈斯的领土的一部分，它因Korinthos而得名。除了大多数科林斯人号称Korinthos是宙斯之子之外，我从未见过有人特别热情地坚持这种说法。但是Bacchiadai家族的Amphilyte之子Eumelos不这么认为。人们认为是Eumelos写的诗歌（即Corinthiaca）中有一些关于科林斯的历史，其中说，俄刻阿诺斯（环河）的女儿Ephyra最初在此定居，为此地赋名；后来赫利俄斯之孙、Epopeus之子Marathon为了逃离父亲的暴虐来到阿提卡沿岸生活；他在父亲死后，来到伯罗奔尼撒，把统治权分给自己的孩子们，然后又返回阿提卡，但是Asopia和Ephyraia从Sikyon和Korinthos那里获得了新的名字。
+科林斯的领土是阿尔戈斯的领土的一部分，它因Korinthos而得名。除了大多数科林斯人号称Korinthos是宙斯之子之外，我从未见过有人特别热情地坚持这种说法。但是Bacchiadai家族的Amphilyte之子Eumelos不这么认为。人们认为是Eumelos写的诗歌（即Corinthiaca）中有一些关于科林斯的历史，其中说，俄刻阿诺斯（环河）的女儿Ephyra最初在此定居，为此地赋名；后来赫利俄斯之孙、Epopeus之子Marathon为了逃离父亲的暴虐来到阿提卡沿岸生活；他在父亲死后，来到伯罗奔尼撒，把统治权分给自己的孩子们，然后又返回阿提卡，但是Asopia和Ephyraia从西库昂和Korinthos那里获得了新的名字。
 
 #### 1.2
 古时的科林斯人已经没有后人在科林斯生活；现在居住的是罗马摧毁城市后派来的殖民者。科林斯属于亚该亚同盟，参加了由Kritolaos作为总司令发动的反罗马战争；这位将军不仅煽动亚该亚人叛乱，甚至让伯罗奔尼撒以外的很多希腊人都加入其中。当罗马人获得胜利之后，他们夺走了全希腊的武装，并拆毁了所有城邦的城墙，罗马将军Mummius攻占并毁灭了科林斯（前146年）；之后，据说该城在凯撒时重新殖民（前44年）。
@@ -31,7 +31,7 @@ Kromyon，以波塞冬之子Kromos命名，属于科林斯的领土（即[Agioi 
 城墙内左侧是Palaimon的圣所，供奉波塞冬、Leukothea与Palaimon自身的雕像。另有一处名为圣地，有地下通道，据说Palaimon藏身其内。凡科林斯的或外国人在此发誓，永远不能以任何诡计逃避誓言。
 
 #### 2.2
-有一祭坛被称作Kyklopes的古老圣域，人们在此祭献给Kyklopes。读过Eumelos的作品的人大概不会去寻找涅琉斯与西西弗斯的墓，尽管他们的墓地位于此地。据说当涅琉斯因病死在科林斯，葬于地峡。但西西弗斯甚至不愿给涅斯托尔指明涅琉斯墓地的位置，因为它必须绝对无人知晓；西西弗斯也葬在地峡，当时仅少数科林斯人知晓他的墓。即便Mummius毁灭科林斯，地峡竞技会仍未中断；当城市无人居住时由Sikyon代办，在有人重新定居后又归属现今的居民。
+有一祭坛被称作Kyklopes的古老圣域，人们在此祭献给Kyklopes。读过Eumelos的作品的人大概不会去寻找涅琉斯与西西弗斯的墓，尽管他们的墓地位于此地。据说当涅琉斯因病死在科林斯，葬于地峡。但西西弗斯甚至不愿给涅斯托尔指明涅琉斯墓地的位置，因为它必须绝对无人知晓；西西弗斯也葬在地峡，当时仅少数科林斯人知晓他的墓。即便Mummius毁灭科林斯，地峡竞技会仍未中断；当城市无人居住时由西库昂代办，在有人重新定居后又归属现今的居民。
 
 #### 2.3
 Leche与Kenchria是传说中Peirene与波塞冬之子和Achelous之女，他们为科林斯的两个海港命名。在《Megalai Ehoiai》（赫西俄德作品）中，Peirene是Oibalos之女。在[Lechaion](https://maps.app.goo.gl/QN8vwu8pCgGcHpme9)有波塞冬的圣所与一尊他的青铜雕像；从地峡前往[Kenchreai](https://maps.app.goo.gl/JQHmHwZabz36it758)的道路上有阿尔特弥斯的神龛及古老的木质偶像。在Kenchreai有阿芙洛狄特的神龛及一座大理石像，沿海的堤坝有女神神庙和波塞冬的青铜像，在港口的另一尽头则有Asklepios与Isis的神庙。Kenchreai对面是海伦泉：一道强劲的水流从岩石奔入海中，看上去仿佛海面正在沸腾。
@@ -69,7 +69,7 @@ Leche与Kenchria是传说中Peirene与波塞冬之子和Achelous之女，他们�
 科林斯有许多浴场，其中一些由公共建造，一座由皇帝哈德良建造。最著名的浴场位于波塞冬神庙旁，由斯巴达人Eurykles建造，其装饰石材使用了斯巴达Krokeai的石料（一种深绿色的石料，*lapis lacedaemonicus*）。在入口左侧站着波塞冬与狩猎女神阿尔特弥斯。全城建造了大量公共喷泉，因为此地水源丰富，此外还有哈德良从Stymphalos引来的水道；其中最美的一座喷泉在阿尔特弥斯雕像旁：Bellerophon站在其上，泉水从帕伽索斯的蹄中奔涌而出。
 
 #### 3.6
-沿另一条离开市集、通往Sikyon的道路，可在右侧看到阿波罗的神庙和青铜像，再走远一点便是Glauke泉。传说Glauke认为此泉能解美狄亚的毒，于是投身其中。在此泉之后建有Odeion，其旁是美狄亚子女的纪念物：他们名叫Mermeros与Pheres，据说因献给Glauke的礼物而被科林斯人用石头砸死。
+沿另一条离开市集、通往西库昂的道路，可在右侧看到阿波罗的神庙和青铜像，再走远一点便是Glauke泉。传说Glauke认为此泉能解美狄亚的毒，于是投身其中。在此泉之后建有Odeion，其旁是美狄亚子女的纪念物：他们名叫Mermeros与Pheres，据说因献给Glauke的礼物而被科林斯人用石头砸死。
 
 #### 3.7
 由于这残暴罪行，他们持续让科林斯的幼儿死亡，直到神谕命令设立年度祭祀，并为恐惧（Δεῖμα）建立了一座雕像，保存至今，是一位骇人的女性。自罗马人毁灭科林斯、古代科林斯人灭亡后，旧有的地方祭祀便不再举行，小孩也不再为美狄亚的女儿剪发或穿黑衣。
@@ -96,7 +96,7 @@ Eumelos说赫利俄斯将Asopian之地赐给Aloeus，将Ephyraian之地赐给Aie
 Bellerophon的父亲Glaukos并非西西弗斯之唯一子嗣；还有Ornytion、Almos与Thersander。被认为是波塞冬之子的Phokos其实是Ornytion之子。他前往Tithorea（今属Phokis）定居，但Ornytion的幼子Thoas则留在科林斯。他是Doridas与Hyanthidas的曾祖，而当多利安人在Aletes（赫拉克勒斯的玄孙）率领下攻打科林斯时，他们正是统治者。Doridas与Hyanthidas将王位让给Aletes并继续留居，但科林斯的人在战斗中被多利安人击败并收到驱赶。
 
 #### 4.4
-Aletes及其后裔统治了五代至Bacchis，之后Bacchidai又统治了五代，直到Telestes被Arieus与Perantas因争执所杀；之后不再有国王，而由Bacchidai选出的年度执政者治理，直到他们被独裁者Kypselos赶出政权。Kypselos是Melas的后代。当Melas从Sikyon上方的[Gonousse](https://maps.app.goo.gl/jLCLBeja2BFnydAU9)前来与多利安人一同对抗科林斯时，Aletes当时因神谕禁止而命他前往别处，但后来又误解神谕而接纳他为定居者。以上是我关于科林斯列王的考证。
+Aletes及其后裔统治了五代至Bacchis，之后Bacchidai又统治了五代，直到Telestes被Arieus与Perantas因争执所杀；之后不再有国王，而由Bacchidai选出的年度执政者治理，直到他们被独裁者Kypselos赶出政权。Kypselos是Melas的后代。当Melas从西库昂上方的[Gonousse](https://maps.app.goo.gl/jLCLBeja2BFnydAU9)前来与多利安人一同对抗科林斯时，Aletes当时因神谕禁止而命他前往别处，但后来又误解神谕而接纳他为定居者。以上是我关于科林斯列王的考证。
 
 #### 4.5
 雅典娜·缰绳的神庙位于剧场旁，旁边有一尊裸体木制赫拉克勒斯，据说出自代达罗斯。代达罗斯的作品外形略显笨拙，但具有强烈的神性。剧场之上是宙斯·Capitolius的神殿，拉丁语里是如此称呼的；按希腊语则称宙斯·Κορυφαῖος。古老的体育场与Lerna泉离剧场不远，周围有柱廊与座椅，供夏季休憩。体育场旁有宙斯与Asklepios的神庙。Asklepios与健康（Ὑγεία）的雕像为白色大理石，而宙斯是青铜的。
@@ -111,22 +111,49 @@ Acrocorinth是城市上方的山顶；在Briareos的裁判中分给了赫利俄�
 在Acrocorinth顶端的是阿芙洛狄特神庙。殿中供奉的雕像是披甲的阿芙洛狄特、赫利俄斯，以及手持弓的Eros。他们说，神庙后的泉水是Asopos送给西西弗斯的礼物；西西弗斯知道是宙斯夺走了Asopos的女儿Aigina，但当Asopos询问时，他拒绝回答，除非能在Acrocorinth上得到水源。Asopos付出了这笔代价，西西弗斯于是把真相告诉了他；而据说，他在冥府为自己的告密付出代价。我听说这泉水就是Peirene，而城中的水自此流下。
 
 #### 5.2
-但Asopos源自[Phliasia](https://maps.app.goo.gl/nyX5H1sH6FWSKLWf9)，流经Sikyonia，并在那里入海。Phliasians说Asopos的女儿是Korkyra、Aigina与Thebe；Scheria与Oinone二岛从Korkyra与Aigina得到了新名，而Kadmeia山下的那座城则由Thebe得名。忒拜人不认同，他们声称Thebe是贝奥提亚人Asopos之女，而非Phliasia的Asopos之女。
+但Asopos源自[Phliasia](https://maps.app.goo.gl/nyX5H1sH6FWSKLWf9)，流经西库昂，并在那里入海。Phliasians说Asopos的女儿是Korkyra、Aigina与Thebe；Scheria与Oinone二岛从Korkyra与Aigina得到了新名，而Kadmeia山下的那座城则由Thebe得名。忒拜人不认同，他们声称Thebe是贝奥提亚人Asopos之女，而非Phliasia的Asopos之女。
 
 #### 5.3
-除此之外，Phliasians与Sikyonians都说这水并非本地水源，而是外来的：他们主张Maiander自Kelainai发源，经Phrygia与Caria流向Miletos入海，然后来到伯罗奔尼撒，汇成Asopos。我在提洛岛也听过一个类似的故事，说他们称为Inopos的水是从尼罗河来的。还有一种说法是：尼罗河本身其实就是幼发拉底河，它在一片沼泽中消失，又在埃塞俄比亚领土之外重新涌出，成为尼罗河。
+除此之外，Phliasians与西库昂人都说这水并非本地水源，而是外来的：他们主张Maiander自Kelainai发源，经Phrygia与Caria流向Miletos入海，然后来到伯罗奔尼撒，汇成Asopos。我在提洛岛也听过一个类似的故事，说他们称为Inopos的水是从尼罗河来的。还有一种说法是：尼罗河本身其实就是幼发拉底河，它在一片沼泽中消失，又在埃塞俄比亚领土之外重新涌出，成为尼罗河。
 
 #### 5.4
 我听到的关于Asopos的传说大抵如此。从Acrocorinth向山中转去，会来到Tenean门以及一座Eileithuia的神庙；[Tenea](https://maps.app.goo.gl/jSc5vGh88Y3QdsNW6)距此约60个stades。当地人自称是从[Tenedos](https://maps.app.goo.gl/Wk83VKjcFQCiSWFX7)被希腊人俘来、由阿伽门农赐地安置的特洛伊人；因此他们最尊崇的神是阿波罗。
 
 #### 5.5
-从科林斯出发，若不向内陆而是朝Sikyon方向走，在城外不远、道路左侧可以看到一座被烧毁的神庙。科林斯领土引发的战争不止一场，在城墙之外有许多民居与圣所都被火焰吞噬；但他们说这原是阿波罗的神庙，被Achilles之子Pyrros放火焚毁。后来我又听到另一种说法，说科林斯人把这神庙奉献给奥林匹亚的宙斯，而一场突如其来的大火从不知何处降下，将其烧成灰烬。
+从科林斯出发，若不向内陆而是朝西库昂方向走，在城外不远、道路左侧可以看到一座被烧毁的神庙。科林斯领土引发的战争不止一场，在城墙之外有许多民居与圣所都被火焰吞噬；但他们说这原是阿波罗的神庙，被Achilles之子Pyrros放火焚毁。后来我又听到另一种说法，说科林斯人把这神庙奉献给奥林匹亚的宙斯，而一场突如其来的大火从不知何处降下，将其烧成灰烬。
 
 #### 5.6
-与科林斯为邻的Sikyonians这样讲述他们这片土地的故事：Aigialeus是这里最早的土著，在他之前无人居住；伯罗奔尼撒里至今仍被称为Aigialos（即阿凯亚）的那一片地区，便是以Aigialeus之名命名的，这位国王首先在平原上建立了城市Aigialeia，而如今雅典娜的圣所所在之处便是当时的卫城。Aigialeus是Apis的曾祖父；在Pelops抵达奥林匹亚之前，Apis的权势已然强大到使整个地峡以内的地域都以他的名字Apia相称。
+与科林斯为邻的西库昂人这样讲述他们这片土地的故事：Aigialeus是这里最早的土著，在他之前无人居住；伯罗奔尼撒里至今仍被称为Aigialos（即阿凯亚）的那一片地区，便是以Aigialeus之名命名的，这位国王首先在平原上建立了城市Aigialeia，而如今雅典娜的圣所所在之处便是当时的卫城。Aigialeus是Apis的曾祖父；在Pelops抵达奥林匹亚之前，Apis的权势已然强大到使整个地峡以内的地域都以他的名字Apia相称。
 
 #### 5.7
 他的玄孙是Leukippos，没有儿子，只有一个名为Kalchinia的女儿。相传波塞冬与她结合，Leukippos抚养她所生的儿子，并把王位遗赠给他。这个男孩名叫Peratos。
 
 #### 5.8
 关于Peratos之子Plemnaios，有一件事让我惊奇不已：他妻子所生的所有孩子从第一声啼哭起便断气身亡，直到德墨忒尔怜悯Plemnaios，以外乡女子的模样来到Aigialeia，亲自抚养他的儿子Orthopolis。Orthopolis的女儿是Chrysorthe，据说她为阿波罗生下了一个名为Koronos的孩子。Koronos是Korax的父亲，而Lamedon是其弟。
+
+#### 6.1
+当Korax无嗣而死之时，帖萨利来的Epopeus占据了王位。人们说在他统治期间，第一支敌军进入了他们的国土；在那之前，他们一直生活在永恒的和平中。战争的起因在于Nykteus之女Antiope在整个希腊都以美貌闻名，但也有传言说她是Asopos（那条穿过忒拜与Plataia边界的河流）之女，并非Nykteus之女。
+
+#### 6.2
+至于Epopeus掳走了这位少女是为了娶妻，还是一开始便心怀暴力，我不得而知。忒拜起兵反抗，Nykteus在战中受伤，而Epopeus虽获胜也同样负伤。人们将带病的Nykteus抬回忒拜，他临终前将忒拜的王位暂时交给弟弟Lykos。因为当时卡德摩斯之子Polydorus之子Labdokos仍然是个孩子，受Nykteus监管。他将摄政权以Labdakos的名义转交给Lykos。他恳求Lykos率更大的军队进攻Aigialeia，为他向Epopeus报仇，并若有机会也要惩罚Antiope。
+
+#### 6.3
+Epopeus则立刻宰杀祭牲行凯旋祭礼，并正在为雅典娜兴建一座神庙；工程完成后，他向女神祈祷，请她显明此庙是否符合她的心意。据说在祈祷之后，一棵橄榄树从神庙前自行破土而出。后来Epopeus因最初疏忽治疗的伤势而死，Lykos便再无出兵之必要。继Epopeus为王的，是Koronos之子Lamedon，他将Antiope交了出去。而Antiope在被押解往忒拜、行至Eleutherai道路途中，于路旁分娩了孩子。
+
+#### 6.4
+Asios在他的诗中这样写道：
+
+> “深旋之河的女儿，
+> 受孕于宙斯与主宰Epopeus，
+> 生下Zethos与神圣的Amphion。”
+
+但荷马则将她二人提升到更为高贵的世系，称他们是忒拜的首批定居者，我想他是在区分下城与Kadmeia。
+
+#### 6.5
+国王Lamedon娶了来自雅典Pheno为妻，她是Klytias之女。后来在他同Achaios之子Archandros与Architeles的战争中，他从阿提卡召来西库昂同盟前来助战，并将女儿Zeuxippe嫁给了西库昂。于是这片土地改名为西库昂ia，而这座城也从原先的Aigialos之名改称为西库昂，以他与他的王国命名。他们说西库昂并非Marathon之子、Epopeus之孙，而是Metion之子、Erechtheus之孙。Asios赞同这一说法，但在赫西俄德的诗中，他是Erechtheus之子，而Ibykos则称他为Pelops之子。
+
+#### 6.6
+无论如何，西库昂的女儿是Chthonophyle，据说她为赫尔墨斯生下了Polybos；后来狄奥尼索斯之子Phlias娶了她，她又为他生下儿子Androdamas。Polybos将自己的女儿Lysianassa嫁给了阿尔戈斯之王Bias之子Talaos；当Adrastos自阿尔戈斯逃亡时，投奔了身在西库昂的Polybos；在Polybos死后，Adrastos接掌了王权，而当他返回阿尔戈斯时，Lamedon之亲属Klytias的后代Ianiskos自阿提卡前来为王。他死后，赫拉克勒斯之子之一Phaistos成为国王。
+
+#### 6.7
+Phaistos遵从神谕前往克里特之后，据说Zeuxippos继位为王，他是阿波罗与山林女神Syllis之子。Zeuxippos死后，阿伽门农率军攻打西库昂与其王Hippolytos。Hippolytos对来犯之军心怀恐惧，于是同意臣服于阿伽门农与Myceneans。Lakestades是这位Hippolytos的儿子。Temenos之子Phalkes在一次夜袭中率多利安人攻占了西库昂，但他并未伤害另一支赫拉克勒斯后裔，而是与其共享王位。

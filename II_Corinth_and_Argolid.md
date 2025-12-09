@@ -189,3 +189,22 @@ Phaistos遵从神谕前往克里特之后，据说Zeuxippos继位为王，他是
 
 #### 7.9
 他们还说Meleager将猎杀野猪所用的长矛奉献于此；Marsyas的笛子亦悬挂于此——当Silenus陷入厄运时，Marsyas河将笛子冲入Maiander。它们后来出现在Asopos，又漂入西库昂领地，被一名牧人拾获并献给阿波罗。这些供奉物均未留存，被神庙大火焚毁。我所处时代的神庙与雕像由Pythokles奉献。
+
+#### 8.1
+靠近劝说神庙、供奉罗马皇帝的神圣围地，曾是僭主Kleon的府邸。Myron之子Aristonymos之子Kleisthenes是西库昂人仍居下城时的僭主，而Kleon则是新城的僭主。此府邸前方有一座Aratos的英雄神龛，他在其时代为希腊所作的伟大事功无人能及。他的故事如下。
+
+#### 8.2
+在Kleon的僭政之后，上层贵族中对掌权的欲望愈发不可遏制，以至于Euthydemos与Timokleidas两人共同成为僭主。人民则拥护Aratos之父Kleinias，并驱逐了这两人。然而数年后，Abantidas成为僭主。Kleinias已先行去世，Abantidas或是将Aratos驱逐，或是Aratos自愿离去。
+当Abantidas被当地人刺杀后，他的父亲Paseas立即继任僭主。
+
+#### 8.3
+Paseas随后又被Nikokles所杀，Nikokles自称僭主。Aratos带着西库昂流亡者与阿尔戈斯的雇佣兵而来，准备讨伐Nikokles；他夜间行动，潜过一些守卫，制服另一些，进入城墙之内，并在黎明时掌控了民众，随后猛烈攻击僭主宅邸。他轻易入内，但Nikokles逃脱无踪。Aratos还政于民主，召回流亡者，并以自己的财力为他们恢复房屋与财产。
+
+#### 8.4
+由于整个希腊都畏惧马其顿腓力的监护人Antigonos摄政下的力量，他作为一个多利安人城邦领袖，将西库昂加入亚该亚同盟。他立即被选为阿凯亚将军，曾对抗Amphissa的Lokrians，随后侵入并毁坏了Aitolia的敌方领土。Antigonos在科林斯驻扎马其顿军队；Aratos突袭之迅猛令人震惊，他在战中杀死了驻军指挥官Persaios，一位曾师从Mnaseas之子Zeno的哲学家。
+
+#### 8.5
+Aratos解放了科林斯，随后Epidauros与Troizen以及地峡以外的Megara也加入同盟，而托勒密则建立了反阿凯亚联盟。斯巴达人在Agis王领导下快速行动并攻占Pellene，但当Aratos抵达并与其交战时，他们失败了，被迫放弃Pellene，并在特赦下撤回本国。
+
+#### 8.6
+当Aratos在伯罗奔尼撒战果辉煌时，他无法容忍Piraeus、Mounychia（雅典二港），Salamis与Sounion仍被马其顿人占据；他知道武力难以攻下，于是说服驻军指挥官第欧根尼以150塔兰特的价格放弃这些地区。他本人为雅典贡献了这笔款项的六分之一。他还劝说阿尔戈斯的僭主Aristomachos给予阿尔戈斯民主并加入亚该亚同盟，并攻下受斯巴达人占据的Mantineia。但事情并非总按人的意愿发展——若Aratos也不得不因形势所逼与Antigonos和马其顿人结盟，就像后来发生的那样。

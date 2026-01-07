@@ -415,3 +415,31 @@ Heraion对面的山以Akraia命名；其下的土地以Prosymna为名；而周�
 
 #### 17.7
 神庙上方仍留有更古老神庙的地基及部分未被火焰吞噬的结构。据说该旧神庙被烧毁，是因赫拉的祭司Chryseis曾在守灯时睡着，而灯火点燃了旧的花环与装饰品。Chryseis逃往帖该亚，向雅典娜Alea寻求庇护；但阿尔戈斯人即便遭受重大损失，也未将Chryseis的画像从其位置移走，至今仍悬于焚毁神庙的前方。
+
+#### 18.1
+从迈锡尼向阿尔戈斯前行的路左侧，有一座奉献给神圣英雄珀尔修斯的神龛。他在此享有地方崇敬，但他最盛大的祭祀在[Seriphos](https://maps.app.goo.gl/4VzPimgHfWsU5ZCS9)：那里的雅典娜神庙旁有珀尔修斯的神圣围地，并有献给Diktys与Klymene的祭坛——他们是拯救珀尔修斯的恩人。再往阿尔戈斯境内前行不远，右侧便是Thyestes的坟墓，其上立着一只石制公羊，象征Thyestes在奸污兄弟之妻后窃取了金羊。阿特柔斯无法抑制报复之心，于是以同样方式回击——杀害Thyestes的子女，并让他吞食自己亲生骨肉的宴席。
+
+#### 18.2
+之后，我不确定是Aigisthos先犯下恶行，还是阿伽门农杀害Thyestes之子Tantalos在先；据说Tantalos曾从岳父处得到Klytaimnestra，并在她还是少女时便与她同居。我不愿断言他们天性邪恶，但若Pelops的罪孽与Myrtilos的复仇之灵代代追索他们，那么就能理解为何皮提亚女祭司对斯巴达的Glaukos说，他所谋之欺誓将祸延子孙。
+
+#### 18.3
+从所谓“羔羊”（Κριῶν），即Thyestes墓碑的不远处，左侧便是Mysia以及一座Mysia·德墨忒尔的神庙：其名来自名为Mysios的男子，阿尔戈斯人说他也曾款待过德墨忒尔。此神庙无屋顶；内有另一处陶土建的神龛，供奉着木制的科瑞、Pluto与德墨忒尔。再往前是Inachos河，其后是一座赫利俄斯的神庙。沿此道即可到达一座城门，因附近奉献给Eileithuia的圣所而得名。
+
+#### 18.4
+阿尔戈斯人是我所知唯一分为三支王族的希腊民族。在Anaxagoras统治期间，妇女们突然集体发狂，离家四散游走乡野，直到Melampous以条件为其止疾：他和弟弟Bias必须获得与Anaxagoras相同的财富与地位。自Bias起共四代、五位国王，至Aigialeus之子Kyanippos，其母系皆出自涅琉斯（海仙女）。而自Melampous起至Amphiaraos之子Amphilochos共六代六人。
+
+#### 18.5
+不过来自Anaxagoras的家族统治最久。在特洛伊沦陷后，Amphilochos前往如今称为Amphilochians的地区；Kyanippos无子而终，Sthenelos之子Kylasabes成为唯一的国王。但他也无子，于是阿伽门农之子Orestes占据了阿尔戈斯；那是邻近领地，且除父亲的王冠外，他已掌控了大半阿卡迪亚，
+也继承了斯巴达的王位；他的福基斯盟友随时准备为他作战。
+
+#### 18.6
+Orestes得斯巴达人同意出任其国王，因为他们宁愿让Tyndareus的外孙为王，也不愿接受墨涅拉俄斯的两个儿子、奴隶所生的Nikostratos与Megapenthes。但当Orestes亡故后，王位传给其子Tisamenos：他是Orestes与墨涅拉俄斯之女Hermione所生。Kinaithon在诗中写道，Orestes与Aigisthos之女Erigone生有私生子Penthilos。
+
+#### 18.7
+就在这个Tisamenos统治期间，赫拉克勒斯的子孙返回伯罗奔尼撒：即Temenos、Kresphontes，及已故Aristodemos之子。他们要求阿尔戈斯及阿尔戈斯的王位，我认为这是理所当然的：因为Tisamenos出自Pelops一系，而他们则出自珀尔修斯一系；此外他们辩称：Tyndareus曾被Hippokoon驱逐，而赫拉克勒斯曾杀死Hippokoon及其子，并将王国交回Tyndareus托管。他们对Messenia也提出类似的主张：赫拉克勒斯攻陷Pylos时，也只是将其托付给涅斯托尔。
+
+#### 18.8
+于是他们将Tisamenos逐出阿尔戈斯与斯巴达，也将涅琉斯的家族逐出Messenia——包括Thrasymedes之子Sillus之子Alcmaeon，Antilochos之子Paion之子Peisistratus之子Peisistratus，以及Periclymenus之子Penthilos之子Borus之子Andropompus之子Melanthus。Tisamenos与军队及其子前往今日的阿凯亚。
+
+#### 18.9
+除不知所踪的Peisistratos，涅琉斯家族余者皆抵达雅典，并以他们命名两个家族：Paion家族与Alkmaion家族。Melanthos更击杀Thymoites而成为国王：Thymoites是忒修斯族系最后一位统治雅典的国王。

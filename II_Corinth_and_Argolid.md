@@ -536,3 +536,30 @@ Telesilla便派遣家奴、老年男子与尚未成年、不能持械的男孩�
 > 姐弟只有两人，却把他们杀死。
 
 荷马深知Amphion一家的灭绝是从根基上摧毁的。
+
+#### 22.1
+在勒托神庙的右侧，是一座花之赫拉（Ἀνθείας）的神庙；其前方是那些随狄奥尼索斯出征、与珀尔修斯和阿尔戈斯人作战并战死的爱琴海岛妇女的坟墓。他们称这些人为海女（Ἁλίας）。在这些妇女的纪念碑对面的是一座Pelasgos的德墨忒尔的神庙，名称源自其奠立者Triopas之子Pelasgos，他的墓就不远。
+
+#### 22.2
+墓的对面，有一只青铜大瓮，大小不算特别显眼，却承托着古老的阿尔特弥斯、宙斯与雅典娜三尊神像。Lykeas在诗中写道，宙斯神像为Mechaneus所作；当阿尔戈斯人出征特洛伊时，便在此地发誓要么攻下城池，要么战死沙场。但也有人说，这只青铜大瓮中盛放的是Tantalos的遗骨。
+
+#### 22.3
+我不排除这个可能性，此处埋葬的是在阿伽门农之前曾娶Klytaimnestra的Tantalos。他是Thyestes或Broteas之子，确实可能葬在此地。然而，我知道那位神话中宙斯与Pluto之子Tantalos的墓在[Sipylos山](https://maps.app.goo.gl/rTM7aJgEE9GrMEsQ9)：我亲眼见过，确实值得一看。再说，他也完全没有必要像Pelops那样逃离那里。后者是因Phrygia的Ilos起兵攻打他才不得不逃跑的。总之，这段考证到此为止。据说附近坑中的献祭，是本地人Nikostratos所创的仪式：直到今日，他们仍将燃着的灯火投入坑中，献给德墨忒尔的女儿科瑞。
+
+#### 22.4
+这里有一座浪泳者（προσκλύστιος）波塞冬的神庙：他们说，当年Inachos与陪审者裁决此地归赫拉而非波塞冬时，波塞冬便以洪水淹没了大部分土地。后来赫拉与他达成协议，让海水退回，而阿尔戈斯人便在海水退去之处奉献一座浪泳者波塞冬神庙。
+
+#### 22.5
+再往前不远，是阿尔戈斯的坟墓，他是宙斯与Phoroneus之女尼俄柏所生的儿子。其后是一座Dioskouroi的神庙，其中有双子的雕像，以及少年Anaxis与Mnasinous，和他们的母亲Hilaeira与Phoibe。这些雕像由Dipoinos与Skyllis以乌木雕成；马的雕像多为乌木，仅部分为象牙。
+
+#### 22.6
+靠近这些大王的，是一座Eileithuia神庙，据说是海伦所奉献：当时忒修斯与Peirithous出发前往[Thesprotia](https://maps.app.goo.gl/H7tNF7xRvRNpGWoj7)，Dioskouroi攻陷Aphidna，而海伦被带往斯巴达。人们说，当时她已怀孕，在阿尔戈斯产下一女，遂建了Eileithuia的神庙，并将这女婴交给已与阿伽门农同居的Klytaimnestra抚养，自己则在其后嫁给墨涅拉俄斯。
+
+#### 22.7
+Chalkis的Euphorion，[Pleuron](https://maps.app.goo.gl/RWEGmf59MAaAgwbLA)的Alexander，以及更早的Himera诗人Stesichoros，都在诗中与阿尔戈斯人的说法一致，认为忒修斯的女儿就是Iphigeneia。在Eileithuia神庙的对面，是一座赫卡忒神庙，其石质神像出自Skopas之手。而与之相对的两尊赫卡忒神像为青铜所铸，各由Mothon之子Polykleitos和Naukydes制作。
+
+#### 22.8
+若沿直路就会走到Kylarabis竞技场，以Sthenelos之子命名。Elektryon之子Likymnios葬于此处；荷马说，赫拉克勒斯之子Tleptolemos杀了他，并因这杀戮而逃离阿尔戈斯。若从通往Kylarabis与Kylarabisgate的道路稍往边上走，可看到Sakadas的纪念碑：他是第一个在德尔斐以长笛演奏皮提亚调式的人。
+
+#### 22.9
+自他之后，阿波罗因与Silenos马耳西亚斯的竞赛而对笛手心存仇怨的那种态度似乎也由此终结。在Kylarabis的竞技场中，有一尊雅典娜·丰饶（Πανία ）像，他们也会指给你看Sthenelos与Kylarabis本人的墓。离竞技场不远处，是一座合葬纪念碑，为纪念那些与雅典一同出航，前往征服叙拉古与整个西西里而战死的阿尔戈斯人。
